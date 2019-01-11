@@ -66,12 +66,6 @@
     "name":"Interesting Poll on Accessibility"
   },
   {
-    "content":"It was indeed interesting\n            - I can't get at the results either with Opera or Lynx.\n            Yes, please, an update to the list of the data would be beneficial to us who do not maintain the same browsers or have the same capabilities as those who coded that very, very interesting albeit ironic poll.\n            --\n            - Tina Holmboe Greytower Technologies\n            tina@greytower.net http://www.greytower.net/\n            [+46] 0708 557 905\n\t    ",
-    "user_1":"tina@elfi.org",
-    "user_2":"w3c-wai-ig@w3.org",
-    "name":"Interesting Poll on Accessibility"
-  },
-  {
     "content":"So far, the poll results say that 47% of the participants have no idea how to even make their site accessible, or what it means.\n            That's just wonderful news.\n            Randal",
     "user_1":"RRust@COVANSYS.com",
     "user_2":"tina@elfi.org",
@@ -81,12 +75,6 @@
     "content":"So far, the poll results say that 47% of the participants have no idea how to even make their site accessible, or what it means.\n            That's just wonderful news.\n            Randal",
     "user_1":"RRust@COVANSYS.com",
     "user_2":"simon.white@jkd.co.uk",
-    "name":"Interesting Poll on Accessibility"
-  },
-  {
-    "content":"So far, the poll results say that 47% of the participants have no idea how to even make their site accessible, or what it means.\n            That's just wonderful news.\n            Randal",
-    "user_1":"RRust@COVANSYS.com",
-    "user_2":"w3c-wai-ig@w3.org",
     "name":"Interesting Poll on Accessibility"
   },
   {
@@ -150,7 +138,7 @@
     "name":"Deaf Community - Great Web Sites"
   },
   {
-    "content":"\n            one suggestion I've received is The Federation of Deaf People\n            http://www.fdp.org.uk/\n            jonathan chetwynd\n            http://www.peepo.com &quot;The first and still the best picture directory on the web&quot;\n            http://www.learningdifficulty.org.uk &quot;Our guide to helping people with a learning difficulty get the most from the web&quot;\n\t    \n\n\n            http://www.ctad.co.uk/basil/ has also been recommended\n            jonathan chetwynd\n            http://www.peepo.com &quot;The first and still the best picture directory on the web&quot;\n            http://www.learningdifficulty.org.uk &quot;Our guide to helping people with a learning difficulty get the most from the web&quot;\n\t  \n\n\n            other links include:\n            www.rnid.org.uk\n            www.britishdeafassociation.org.uk\n            www.deafchristian.org.uk\n            www.hearing-dogs.co.uk\n            www.royaldeaf.org.uk/links.htm\n            www.signcommunique.com\n            www.yagc.demon.co.uk/Deaf/Deaf.html\n            www.breakthrough-dhi.org.uk\n            www.deafclub.co.uk\n            www.bris.ac.uk/Depts/DeafStudies/links.htm\n            www.linkcentre.org\n            www.deafclub.co.uk/deafbooks\n            www.forestbooks.com\n            jonathan chetwynd\n            http://www.peepo.com &quot;The first and still the best picture directory on the web&quot;\n            http://www.learningdifficulty.org.uk &quot;Our guide to helping people with a learning difficulty get the most from the web&quot;\n\t    \n\n\n\t    Peepo has advocated for some years the use of the keyboard as means to select links.\n            In the latest mozilla browser, when you type a letter, except in a text entry box, it cycles through links that have that letter in their text.\n            it seems slightly buggy, but what do you think?\n            (course it screws my coding right and proper)\n            thanks\n            jonathan\n\t    \n\n\n\t    well those are some of the positives, how about disabling for those who are hyperactive, and just cannot stop fiddling with the keyboard?\n            its buggy in the sense that for instance 'k' words aren't just those that start with the letter k but also those that include the letter k.\n            I'd expect it to have a few others besides.\n            jonathan\n\t    \n\n\n            Peter,\n            to clear up a possible confusion, can you confirm that you're use of SLD refers to specific learning difficulty or dyslexia, and not Severe Learning Difficulties or cognitive disability?\n            looks to be a great resource, we now link to it and http://www.techdis.ac.uk/seven/disability_and_the_web.html from http://www.learningdifferently.com/develop/papers.html where there are links to many other useful resources on LDD and the web\n            thanks\n            Jonathan\n\t    ",
+    "content":"\n            one suggestion I've received is The Federation of Deaf People\n            http://www.fdp.org.uk/\n            jonathan chetwynd\n            http://www.peepo.com &quot;The first and still the best picture directory on the web&quot;\n            http://www.learningdifficulty.org.uk &quot;Our guide to helping people with a learning difficulty get the most from the web&quot;\n\t    \n\n\n            http://www.ctad.co.uk/basil/ has also been recommended\n            jonathan chetwynd\n            http://www.peepo.com &quot;The first and still the best picture directory on the web&quot;\n            http://www.learningdifficulty.org.uk &quot;Our guide to helping people with a learning difficulty get the most from the web&quot;\n\t  \n\n\n            other links include:\n            www.rnid.org.uk\n            www.britishdeafassociation.org.uk\n            www.deafchristian.org.uk\n            www.hearing-dogs.co.uk\n            www.royaldeaf.org.uk/links.htm\n            www.signcommunique.com\n            www.yagc.demon.co.uk/Deaf/Deaf.html\n            www.breakthrough-dhi.org.uk\n            www.deafclub.co.uk\n            www.bris.ac.uk/Depts/DeafStudies/links.htm\n            www.linkcentre.org\n            www.deafclub.co.uk/deafbooks\n            www.forestbooks.com\n            jonathan chetwynd\n            http://www.peepo.com &quot;The first and still the best picture directory on the web&quot;\n            http://www.learningdifficulty.org.uk &quot;Our guide to helping people with a learning difficulty get the most from the web&quot;\n\t    \n\n\n\t    Peepo has advocated for some years the use of the keyboard as means to select links.\n            In the latest mozilla browser, when you type a letter, except in a text entry box, it cycles through links that have that letter in their text.\n            it seems slightly buggy, but what do you think?\n            (course it screws my coding right and proper)\n            thanks\n            jonathan\n\t    \n\n\n\t    well those are some of the positives, how about disabling for those who are hyperactive, and just cannot stop fiddling with the keyboard?\n            its buggy in the sense that for instance 'k' words aren't just those that start with the letter k but also those that include the letter k.\n            I'd expect it to have a few others besides.\n            jonathan\n\t    ",
     "user_1":"j.chetwynd@btinternet.com",
     "user_2":"w3c-wai-ig@w3.org",
     "name":"Deaf Community - Great Web Sites"
@@ -204,15 +192,9 @@
     "name":"SWADEurope postcard picture"
   },
   {
-    "content":"\n\t      Can't say I'm particularly grabbed by either of them, but if you have to pick one I'd go for the map, not the globe.\n            Is there any reason it has to be geographically accurate?\n            Perhaps a schematic, analogous to the London Underground map of London, would allow you to convey the sense of spatial distribution without getting hung up on the scale problem.\n            Of course, you may not consider that a helpful suggestion given the short timescale :-)\n            Cheers,\n            Ian\n\t  \n\n\n\t      Hi Libby,\n\t      The globe is too visually busy for a background (imho), and if you decrease the opacity I think you'll lose too much of the important bits (like where the UK is :-).\n\t      The map would be OK as a backdrop for the FOAF map if it was semi-opaque, but (a) it misses out the rest of the world, as you said yourself, and (b) there's a big blue empty space on the left :-).\n\t      The atlantic is just too big** if you keep it to scale, hence my suggestion to use more of a schematic approach.\n\t      I guess you need the cartographical equivalent of an ellipsis, whatever that might be!\n\t      Cheers,\n\t      Ian\n\t      ** qv \"[the judge] ruled that the guilty party was 'life itself' for failing\n\t      to be either beautiful or true\" [hhgtg]\n\t    ",
+    "content":"\n\t      Can't say I'm particularly grabbed by either of them, but if you have to pick one I'd go for the map, not the globe.\n            Is there any reason it has to be geographically accurate?\n            Perhaps a schematic, analogous to the London Underground map of London, would allow you to convey the sense of spatial distribution without getting hung up on the scale problem.\n            Of course, you may not consider that a helpful suggestion given the short timescale :-)\n            Cheers,\n            Ian\n\t  ",
     "user_1":"Ian.Dickinson@hp.com",
     "user_2":"public-esw@w3.org",
-    "name":"SWADEurope postcard picture"
-  },
-  {
-    "content":"* Dickinson, Ian J &lt;Ian.Dickinson@hp.com&gt; [2003-04-25 12:12+0100]\n\t     One advantage of being geographically accurate is it simplifies our lives when we try to plot SW researchers, groups, events etc on the map...\n            I prefer the map to the globe, fwiw.\n            Dan\n\t    ",
-    "user_1":"danbri@w3.org",
-    "user_2":"\"Dickinson",
     "name":"SWADEurope postcard picture"
   },
   {
@@ -222,25 +204,7 @@
     "name":"SWADEurope postcard picture"
   },
   {
-    "content":"* Dickinson, Ian J &lt;Ian.Dickinson@hp.com&gt; [2003-04-25 12:12+0100]\n\t     One advantage of being geographically accurate is it simplifies our lives when we try to plot SW researchers, groups, events etc on the map...\n            I prefer the map to the globe, fwiw.\n            Dan\n\t    ",
-    "user_1":"danbri@w3.org",
-    "user_2":"Libby.Miller@bristol.ac.uk",
-    "name":"SWADEurope postcard picture"
-  },
-  {
-    "content":"* Dickinson, Ian J &lt;Ian.Dickinson@hp.com&gt; [2003-04-25 12:12+0100]\n\t     One advantage of being geographically accurate is it simplifies our lives when we try to plot SW researchers, groups, events etc on the map...\n            I prefer the map to the globe, fwiw.\n            Dan\n\t    ",
-    "user_1":"danbri@w3.org",
-    "user_2":"public-esw@w3.org",
-    "name":"SWADEurope postcard picture"
-  },
-  {
-    "content":"yeah, sorry it's such a rush.\n            It took a long time to write the document explaining how to write the RDF.\n            At this stage we really need examples to show the designer though\n            - I'll pass your comments along to him, see if he has anything like that.\n            What don't you like about them in particular?\n            thanks for the feedback\n            Libby\n\t    On Fri, 25 Apr 2003, Dickinson, Ian J wrote:\n\t    \n\n\n            thanks Ian.\n            I broadly agree with you.\n            For (b) though, that might work in our favour, as we can put a logo and/or a slogan there.\n            Libby\n            On Fri, 25 Apr 2003, Dickinson, Ian J wrote:\n\t    ",
-    "user_1":"Libby.Miller@bristol.ac.uk",
-    "user_2":"\"Dickinson",
-    "name":"SWADEurope postcard picture"
-  },
-  {
-    "content":"\n\t    Dear all,\n            a &quot;heads-up&quot;.\n            Hoping that we will have a last call review shortly (see my next email) we are planning a face to face meeting at which we can resolve issues raised, and generally tidy the document up (write up lots more good techniques).\n            At the moment we are talking to a potential host in the Boston area about a meeting on thursday and friday 7-8 October.\n            More details as they come to hand.\n            cheers\n            Charles\n            --Charles McCathieNevile mailto:charles@w3.org\n            phone: +1 617 258 0992 http://www.w3.org/People/Charles\n            W3C Web Accessibility Initiative http://www.w3.org/WAI\n            MIT/LCS - 545 Technology sq., Cambridge MA, 02139, USA\n\t  \n\n\n\t    Folks,\n            please note that this meeting would be on at the same time as the ATIA meeting in Orlando, Florida.\n            If the time is impossible for anyone please let us know as soon as possible\n            - at the moment the next closest possible times are a week earlier (which will cut into the time available for last call review) or ten days later (which will possibly push our schedule back further).\n            cheers\n            Charles\n\t    \n\n\n            Dear working group participants,\n            as discussed, the meeting will indeed be held on thursday 7 and friday 8 October.\n            I am pleased to announce that Allaire Corp will be our hosts, and look forward to a productive two days, and some time to say hi.\n            The nitty-gritty...\n            Meeting registration is open from now until 1 October.\n            register via the meeting page at http://www.w3.org/WAI/AU/f2f-oct99 which also provides details on location, accommodation, etc.\n            There are a limited number of rooms available in the Royal Sonesta Hotel (which is the meeting venue) at a discounted rate\n            - in order to qualify for this rate reservations and meeting registration must be completed by September 10.\n            Since October is the peak season for Boston hotels, rooms are expensive and hotels book out early, so you are advised to make your plans and reservations as soon as possible.\n            If you have any questions or special requirements please contact me as early as possible.\n            Cheers\n            Charles McCN\n\t    --Charles McCathieNevile mailto:charles@w3.org\n            phone: +1 617 258 0992 http://www.w3.org/People/Charles\n            W3C Web Accessibility Initiative http://www.w3.org/WAI\n            MIT/LCS - 545 Technology sq., Cambridge MA, 02139, USA\n\t    \n\n\n            Most important - if you haven't registered yet, don't forget.\n            http://www.w3.org/WAI/AU/f2f-oct99 for the details.\n            Given that there are a small number of us, I thought I would ask what people want to eat for lunch.\n            The default choices are roast turkey breast with vegetables (without turkey if you are a vegan), and pasta with vegetable rataouille.\n            Possible substitutions:\n            baked Scrod (fish)\n            chicken caesar salad\n            hommus roll-up sandwich with salad\n            salad with crab cakes\n            churrasco flank steak with chimichurri (??) and onions\n            I will do this in the following way:\n            If you cannot eat one of these things please make that very clear.\n            It will take at least two votes to change something, and will have to be compatible with what people can't do.\n            The deadline is 3pm (boston time) Monday.\n            No response will not be considered a vote for the default\n            - it will be considered a vote for &quot;whatever gets chosen&quot;\n            Sorry to bore you with administrivia, but I figure that having food that people like helps the meeting go well...\n            cheers\n            Charles McCN\n            --Charles McCathieNevile mailto:charles@w3.org\n            phone: +1 617 258 0992 http://www.w3.org/People/Charles\n            W3C Web Accessibility Initiative http://www.w3.org/WAI\n            MIT/LCS - 545 Technology sq., Cambridge MA, 02139, USA\n\t    \n\n\n\t    It is probable that we can arrange a telephone connection, to call in via a US bridge.\n            Are there people who are unable to make the face to face meeting, but would like us to have this facility?\n            Please respond as soon as possible\n            - the decision will be made early next week.\n            cheers\n            Charles McCN\n            --\n            Charles McCathieNevile http://www.w3.org/People/Charles phone: +61 409 134 136\n            W3C Web Accessibility Initiative http://www.w3.org/WAI fax: +1 617 258 5999\n            Location: 21 Mitchell street FOOTSCRAY Vic 3011, Australia\n            (or W3C INRIA, Route des Lucioles, BP 93, 06902 Sophia Antipolis Cedex, France)\n\t    \n\n\n\t    There have been a couple of possiblities raised:\n            Ottawa, 5 or 6 October (This depends on a number of other W3C timing issues)\n            Nashville, mid october\n            How do people feel about either of these?\n            Are we ready for a meeting, overdue for one, nowhere near it?\n            Are these good locations, or does someone have another proposal (offer of hosting...)\n            Charles\n            --\n            Charles McCathieNevile mailto:charles@w3.org phone: +61 (0) 409 134 136\n            W3C Web Accessibility Initiative http://www.w3.org/WAI\n            Location: I-cubed, 110 Victoria Street, Carlton VIC 3053\n            Postal: GPO Box 2476V, Melbourne 3001, Australia\n\t    \n\n\n\t    I have never had a holiday in Venice, although I would like to.\n            But I can confirm that it is a nice place to have a meeting, and could probably attend (it is not that hard to get to from Europe).\n            cheers\n            Chaals\n            Charles McCathieNevile http://www.w3.org/People/Charles tel: +61 409 134 136\n            SWAD-E http://www.w3.org/2001/sw/Europe fax(france): +33 4 92 38 78 22\n            Post: 21 Mitchell street, FOOTSCRAY Vic 3011, Australia or\n            W3C, 2004 Route des Lucioles, 06902 Sophia Antipolis Cedex, France\n\t    ",
+    "content":"\n\t    Dear all,\n            a &quot;heads-up&quot;.\n            Hoping that we will have a last call review shortly (see my next email) we are planning a face to face meeting at which we can resolve issues raised, and generally tidy the document up (write up lots more good techniques).\n            At the moment we are talking to a potential host in the Boston area about a meeting on thursday and friday 7-8 October.\n            More details as they come to hand.\n            cheers\n            Charles\n            --Charles McCathieNevile mailto:charles@w3.org\n            phone: +1 617 258 0992 http://www.w3.org/People/Charles\n            W3C Web Accessibility Initiative http://www.w3.org/WAI\n            MIT/LCS - 545 Technology sq., Cambridge MA, 02139, USA\n\t  \n\n\n\t    Folks,\n            please note that this meeting would be on at the same time as the ATIA meeting in Orlando, Florida.\n            If the time is impossible for anyone please let us know as soon as possible\n            - at the moment the next closest possible times are a week earlier (which will cut into the time available for last call review) or ten days later (which will possibly push our schedule back further).\n            cheers\n            Charles\n\t    \n\n\n            Dear working group participants,\n            as discussed, the meeting will indeed be held on thursday 7 and friday 8 October.\n            I am pleased to announce that Allaire Corp will be our hosts, and look forward to a productive two days, and some time to say hi.\n            The nitty-gritty...\n            Meeting registration is open from now until 1 October.\n            register via the meeting page at http://www.w3.org/WAI/AU/f2f-oct99 which also provides details on location, accommodation, etc.\n            There are a limited number of rooms available in the Royal Sonesta Hotel (which is the meeting venue) at a discounted rate\n            - in order to qualify for this rate reservations and meeting registration must be completed by September 10.\n            Since October is the peak season for Boston hotels, rooms are expensive and hotels book out early, so you are advised to make your plans and reservations as soon as possible.\n            If you have any questions or special requirements please contact me as early as possible.\n            Cheers\n            Charles McCN\n\t    --Charles McCathieNevile mailto:charles@w3.org\n            phone: +1 617 258 0992 http://www.w3.org/People/Charles\n            W3C Web Accessibility Initiative http://www.w3.org/WAI\n            MIT/LCS - 545 Technology sq., Cambridge MA, 02139, USA\n\t    \n\n\n            Most important - if you haven't registered yet, don't forget.\n            http://www.w3.org/WAI/AU/f2f-oct99 for the details.\n            Given that there are a small number of us, I thought I would ask what people want to eat for lunch.\n            The default choices are roast turkey breast with vegetables (without turkey if you are a vegan), and pasta with vegetable rataouille.\n            Possible substitutions:\n            baked Scrod (fish)\n            chicken caesar salad\n            hommus roll-up sandwich with salad\n            salad with crab cakes\n            churrasco flank steak with chimichurri (??) and onions\n            I will do this in the following way:\n            If you cannot eat one of these things please make that very clear.\n            It will take at least two votes to change something, and will have to be compatible with what people can't do.\n            The deadline is 3pm (boston time) Monday.\n            No response will not be considered a vote for the default\n            - it will be considered a vote for &quot;whatever gets chosen&quot;\n            Sorry to bore you with administrivia, but I figure that having food that people like helps the meeting go well...\n            cheers\n            Charles McCN\n            --Charles McCathieNevile mailto:charles@w3.org\n            phone: +1 617 258 0992 http://www.w3.org/People/Charles\n            W3C Web Accessibility Initiative http://www.w3.org/WAI\n            MIT/LCS - 545 Technology sq., Cambridge MA, 02139, USA\n\t    \n\n\n\t    It is probable that we can arrange a telephone connection, to call in via a US bridge.\n            Are there people who are unable to make the face to face meeting, but would like us to have this facility?\n            Please respond as soon as possible\n            - the decision will be made early next week.\n            cheers\n            Charles McCN\n            --\n            Charles McCathieNevile http://www.w3.org/People/Charles phone: +61 409 134 136\n            W3C Web Accessibility Initiative http://www.w3.org/WAI fax: +1 617 258 5999\n            Location: 21 Mitchell street FOOTSCRAY Vic 3011, Australia\n            (or W3C INRIA, Route des Lucioles, BP 93, 06902 Sophia Antipolis Cedex, France)\n\t    \n\n\n\t    There have been a couple of possiblities raised:\n            Ottawa, 5 or 6 October (This depends on a number of other W3C timing issues)\n            Nashville, mid october\n            How do people feel about either of these?\n            Are we ready for a meeting, overdue for one, nowhere near it?\n            Are these good locations, or does someone have another proposal (offer of hosting...)\n            Charles\n            --\n            Charles McCathieNevile mailto:charles@w3.org phone: +61 (0) 409 134 136\n            W3C Web Accessibility Initiative http://www.w3.org/WAI\n            Location: I-cubed, 110 Victoria Street, Carlton VIC 3053\n            Postal: GPO Box 2476V, Melbourne 3001, Australia\n\t    ",
     "user_1":"charles@w3.org",
     "user_2":"w3c-wai-au@w3.org",
     "name":"Next face to face meeting"
@@ -252,31 +216,13 @@
     "name":"Next face to face meeting"
   },
   {
-    "content":"\n            Hello,\n            I have other meetings tentatively scheduled for 6 and 7 October in Boston.\n            I would probably be able to attend starting the 7th.\n            - Ian\n            --\n            Ian Jacobs (jacobs@w3.org) http://www.w3.org/People/Jacobs\n            Tel/Fax: +1 212 684-1814\n\t    ",
-    "user_1":"ij@w3.org",
-    "user_2":"w3c-wai-au@w3.org",
-    "name":"Next face to face meeting"
-  },
-  {
     "content":"\n            I believe that I will be in Rome on the 6th and 7th.\n            --\n            Kynn Bartlett mailto:kynn@hwg.org\n            President, HTML Writers Guild http://www.hwg.org/\n            AWARE Center Director http://aware.hwg.org/\n\t    ",
     "user_1":"kynn-hwg@idyllmtn.com",
     "user_2":"ij@w3.org",
     "name":"Next face to face meeting"
   },
   {
-    "content":"\n            I believe that I will be in Rome on the 6th and 7th.\n            --\n            Kynn Bartlett mailto:kynn@hwg.org\n            President, HTML Writers Guild http://www.hwg.org/\n            AWARE Center Director http://aware.hwg.org/\n\t    ",
-    "user_1":"kynn-hwg@idyllmtn.com",
-    "user_2":"charles@w3.org",
-    "name":"Next face to face meeting"
-  },
-  {
-    "content":"\n            I believe that I will be in Rome on the 6th and 7th.\n            --\n            Kynn Bartlett mailto:kynn@hwg.org\n            President, HTML Writers Guild http://www.hwg.org/\n            AWARE Center Director http://aware.hwg.org/\n\t    ",
-    "user_1":"kynn-hwg@idyllmtn.com",
-    "user_2":"w3c-wai-au@w3.org",
-    "name":"Next face to face meeting"
-  },
-  {
-    "content":"\n\t    We are trying to do advanced planning for a F2F in September.\n            Because of the membership overlap with the OASIS BPEL TC, we would like to try and co-locate with their meetings.\n            This is not a joint meeting, and is being proposed purely to ease travel logistics and members' costs.\n            The OASIS TC is proposing to meet 17 (afternoon), 18, and 19 September, either in Seattle or Germany.\n            Thus it makes sense to try and meet on 15, 16, and 17 (Morning) September.\n            Can people check their diaries for these dates and inform the chairs asap.\n            SAP have offered to host the meeting in Germany (thanks Kevin), but should the BPEL TC decide to meet in Seattle, we would need to find a host.\n            Offers gratefully accepted.\n            Cheers,\n            Martin.\n            _________________________________________________________________\n            Martin Chapman 500 Oracle Parkway\n            Consulting Member of Technical Staff Ms 4op990\n            Oracle Redwood Shores,\n            P: +1 650 506 6941 CA 94065\n            e: martin.chapman@oracle.com USA\n\t    \n\n\n            It's certainly possible, but we shouldn't get into an n-phase transaction:\n            if its in germany those that want to attend both meetings get a weekend in Heidelburg.\n            If BPEl decides to meet in Seattle I'm not sure many would have such a weekend stayover.\n            Of course of bpel meet the following week ...\n            You see where I'm going with this!\n            Mart\n\t    ",
+    "content":"\n\t    We are trying to do advanced planning for a F2F in September.\n            Because of the membership overlap with the OASIS BPEL TC, we would like to try and co-locate with their meetings.\n            This is not a joint meeting, and is being proposed purely to ease travel logistics and members' costs.\n            The OASIS TC is proposing to meet 17 (afternoon), 18, and 19 September, either in Seattle or Germany.\n            Thus it makes sense to try and meet on 15, 16, and 17 (Morning) September.\n            Can people check their diaries for these dates and inform the chairs asap.\n            SAP have offered to host the meeting in Germany (thanks Kevin), but should the BPEL TC decide to meet in Seattle, we would need to find a host.\n            Offers gratefully accepted.\n            Cheers,\n            Martin.\n            _________________________________________________________________\n            Martin Chapman 500 Oracle Parkway\n            Consulting Member of Technical Staff Ms 4op990\n            Oracle Redwood Shores,\n            P: +1 650 506 6941 CA 94065\n            e: martin.chapman@oracle.com USA\n\t    ",
     "user_1":"martin.chapman@oracle.com",
     "user_2":"public-ws-chor@w3.org",
     "name":"September F2F"
@@ -285,12 +231,6 @@
     "content":"\n\t    Where in Germany?\n            On Friday, May 30, 2003, at 09:13 AM, Martin Chapman wrote:\n\t    \n\n\n            It's certainly possible, but we shouldn't get into an n-phase transaction:\n            if its in germany those that want to attend both meetings get a weekend in Heidelburg.\n            If BPEl decides to meet in Seattle I'm not sure many would have such a weekend stayover.\n            Of course of bpel meet the following week ...\n            You see where I'm going with this!\n            Mart\n\t    ",
     "user_1":"fgm@fla.fujitsu.com",
     "user_2":"martin.chapman@oracle.com",
-    "name":"September F2F"
-  },
-  {
-    "content":"\n\t    Where in Germany?\n            On Friday, May 30, 2003, at 09:13 AM, Martin Chapman wrote:\n\t    ",
-    "user_1":"fgm@fla.fujitsu.com",
-    "user_2":"public-ws-chor@w3.org",
     "name":"September F2F"
   },
   {
@@ -378,7 +318,7 @@
     "name":"Location of August 30-31 1999 Face to Face"
   },
   {
-    "content":"\n            I propose to cancel this weeks telecon and schedule another for 12 Mar 2004, if needed.\n            I would like to get moving on comments on the TAG architecture document.\n            Jan - are you still up for reviewing?\n            Can we aim to get other comments in by the end of this week and agreement by email next week?\n            Brian\n\t    \n\n\n\t    Ah.\n            Is this a problem.\n            Have I understood correctly they are going through last call again anyway.\n\t    When is the deadline?\n            I'm prepared to decide by email so we can formally respond by email.\n            Brian\n\t    \n\n\n            That is a reasonable working assumption.\n            I've been announcing telecon's in advance and cancelling if not needed to keep within w3c process.\n            Brian\n\t    \n\n\n\t    Please do.\n            Brian\n\t    \n\n\n\t    Hmm,\n            I was just wondering that myself.\n            I see the following possible agenda items for a telecon:\n            a) wording changes to the semantics doc\n            b) advice to the CG about what to do about postponed issues\n            Dan, would you like the WG to meet to discuss/approve the proposed wording changes?\n            Will the 16th be soon enough?\n            Eric, is the CG seeking input from the WG about b).\n            WG, do folks want to meet to discuss a), b) or anything else?\n            I will send a formal notification of a telecon for 16th Jan, but will cancel if its not needed.\n            Dan, I hope you have fun on Friday.\n            Brian\n\t    \n\n\n            I was not clear.\n            I was not proposing we discuss resolutions of the issues, but suggestions to the CG of how/whether these issues might, at some point in the future be resolved.\n            For example, the WG might recommend to the CG that some issues are higher priority than others.\n            Is that a discussion you feel able to contribute to?\n            Brian\n\t    ",
+    "content":"\n            I propose to cancel this weeks telecon and schedule another for 12 Mar 2004, if needed.\n            I would like to get moving on comments on the TAG architecture document.\n            Jan - are you still up for reviewing?\n            Can we aim to get other comments in by the end of this week and agreement by email next week?\n            Brian\n\t    ",
     "user_1":"bwm@hplb.hpl.hp.com",
     "user_2":"w3c-rdfcore-wg@w3.org",
     "name":"20030220 telecon"
@@ -390,21 +330,9 @@
     "name":"20030220 telecon"
   },
   {
-    "content":"\n\t      I think that means we will not formally respond to I18N on the charmod comments, shall I tell them that we do not intend to, but that the e-mail discussion has not shown any disagreement.\n            e.g. I have informed the RDF Core WG of your decisions, and no one has indicated unhappiness\n            - however we have not formally discussed these issues;\n            and are not likely to.\n            Jeremy\n\t    \n\nYes -\n            I could change my draft informal response to indicate that if we have any other formal response it will be included in our LC review comments on their new documents.\n            Two weeks from when I received the message ....\n            i.e. during Cannes\n            - I suspect that is also the real deadline, in that I imagine they want to make their final decisions at Cannes\n            I am happy to draft a formal response that is pretty vacuous, for e-mail vote.\n            Jeremy\n\t    \n\n\n\t    Personally I prefer not to discuss postponed issues (for new recs?) until we've got this one in the bag.\n            As HP rep the position I represented was we did not need to resolve these issues in this standardization round.\n            For the next few weeks that remains the position I wish to represent.\n            When we get to rec, I have things that I individually think about the postponed issues and could contribute to a discussion.\n            Sorry for being so cautious.\n            Jeremy\n\t    \n\n\n\t\tI am not sure that we can have a procedural only discussion\n            - I guess if I am unconfortable I will just stay quiet\n            - and my silence should not be interpreted as assent.\n            For instance, I decided to not reply to Grahams msg on the postponed issues despite disagreeing with it.\n            Jeremy\n\t    ",
-    "user_1":"jjc@hplb.hpl.hp.com",
-    "user_2":"w3c-rdfcore-wg@w3.org",
-    "name":"20030220 telecon"
-  },
-  {
     "content":"\n\t    Im assuming that they are all cancelled unless I hear otherwise.\n            Maybe that should be our default?\n            I still plan to write a rather long diatribe on this if I can find the time.\n            I doubt if the rest of the WG will endorse all of it but I will send it along asap, hopefully some time next week.\n            Pat\n            --\n            ---------------------------------------------------------------------\n            IHMC(850)434 8903 or (650)494 3973 home\n            40 South Alcaniz St.(850)202 4416 office\n            Pensacola(850)202 4440 fax\n            FL 32501(850)291 0667 cell\n            phayes@ihmc.us http://www.ihmc.us/users/phayes\n\t    \n\n\n            That is a reasonable working assumption.\n            I've been announcing telecon's in advance and cancelling if not needed to keep within w3c process.\n            Brian\n\t    ",
     "user_1":"phayes@ihmc.us",
     "user_2":"bwm@hplb.hpl.hp.com",
-    "name":"20030220 telecon"
-  },
-  {
-    "content":"\n\t    Im assuming that they are all cancelled unless I hear otherwise.\n            Maybe that should be our default?\n            I still plan to write a rather long diatribe on this if I can find the time.\n            I doubt if the rest of the WG will endorse all of it but I will send it along asap, hopefully some time next week.\n            Pat\n            --\n            ---------------------------------------------------------------------\n            IHMC(850)434 8903 or (650)494 3973 home\n            40 South Alcaniz St.(850)202 4416 office\n            Pensacola(850)202 4440 fax\n            FL 32501(850)291 0667 cell\n            phayes@ihmc.us http://www.ihmc.us/users/phayes\n\t    ",
-    "user_1":"phayes@ihmc.us",
-    "user_2":"w3c-rdfcore-wg@w3.org",
     "name":"20030220 telecon"
   },
   {
@@ -414,19 +342,7 @@
     "name":"20030220 telecon"
   },
   {
-    "content":"\n            Likewise, whether or not anyone else in the WG agrees with any of my own personal comments, c.f. http://lists.w3.org/Archives/Public/www-archive/2004Feb/0003.html\n            Patrick\n\t    ",
-    "user_1":"patrick.stickler@nokia.com",
-    "user_2":"bwm@hplb.hpl.hp.com",
-    "name":"20030220 telecon"
-  },
-  {
-    "content":"\n            Likewise, whether or not anyone else in the WG agrees with any of my own personal comments, c.f. http://lists.w3.org/Archives/Public/www-archive/2004Feb/0003.html\n            Patrick\n\t    ",
-    "user_1":"patrick.stickler@nokia.com",
-    "user_2":"w3c-rdfcore-wg@w3.org",
-    "name":"20030220 telecon"
-  },
-  {
-    "content":"\n\t     I've got an opportunity to do some fun family stuff this Friday, so I'd like to know whether it conflicts with an RDF Core telcon.\n            I haven't seen notice, and we're less than 7 days away, so I presume there's no WG telcon this week.\n            Sorry if I missed an announcement to that effect.\n            If the WG meets, I suppose it'll be somewhat unofficially.\n            In that case, I offer regrets.\n            --\n            Dan Connolly, W3C http://www.w3.org/People/Connolly/\n\t    \n\n\n            yes.\n            Good question, but I haven't done the relevant calendar research to figure it out.\n            EricM, I leave that to you.\n            Call/page me if you'd like help.\n            Likewise. 1/2 ;-)\n            Dan Connolly, W3C http://www.w3.org/People/Connolly/\n\t    ",
+    "content":"\n\t     I've got an opportunity to do some fun family stuff this Friday, so I'd like to know whether it conflicts with an RDF Core telcon.\n            I haven't seen notice, and we're less than 7 days away, so I presume there's no WG telcon this week.\n            Sorry if I missed an announcement to that effect.\n            If the WG meets, I suppose it'll be somewhat unofficially.\n            In that case, I offer regrets.\n            --\n            Dan Connolly, W3C http://www.w3.org/People/Connolly/\n\t    ",
     "user_1":"connolly@w3.org",
     "user_2":"w3c-rdfcore-wg@w3.org",
     "name":"no RDF Core telcon this friday, 9Jan, right?"
@@ -438,32 +354,8 @@
     "name":"no RDF Core telcon this friday, 9Jan, right?"
   },
   {
-    "content":"\n\t    Hmm,\n            I was just wondering that myself.\n            I see the following possible agenda items for a telecon:\n            a) wording changes to the semantics doc\n            b) advice to the CG about what to do about postponed issues\n            Dan, would you like the WG to meet to discuss/approve the proposed wording changes?\n            Will the 16th be soon enough?\n            Eric, is the CG seeking input from the WG about b).\n            WG, do folks want to meet to discuss a), b) or anything else?\n            I will send a formal notification of a telecon for 16th Jan, but will cancel if its not needed.\n            Dan, I hope you have fun on Friday.\n            Brian\n\t    \n\n\n\t    Yes.\n            This issue was on last Monday's SW-CG agenda but time ran out before we were able to discuss this.\n            The need isn't urgent (e.g. no need to have a rdf-core call just for this issue) but should be addressed some time by the end of the month.\n            --\n            eric miller http://www.w3.org/people/em/\n            semantic web activity lead http://www.w3.org/2001/sw/\n            w3c world wide web consortium http://www.w3.org/\n\t    \n\n\n            I was not clear.\n            I was not proposing we discuss resolutions of the issues, but suggestions to the CG of how/whether these issues might, at some point in the future be resolved.\n            For example, the WG might recommend to the CG that some issues are higher priority than others.\n            Is that a discussion you feel able to contribute to?\n            Brian\n\t    ",
+    "content":"\n\t    Hmm,\n            I was just wondering that myself.\n            I see the following possible agenda items for a telecon:\n            a) wording changes to the semantics doc\n            b) advice to the CG about what to do about postponed issues\n            Dan, would you like the WG to meet to discuss/approve the proposed wording changes?\n            Will the 16th be soon enough?\n            Eric, is the CG seeking input from the WG about b).\n            WG, do folks want to meet to discuss a), b) or anything else?\n            I will send a formal notification of a telecon for 16th Jan, but will cancel if its not needed.\n            Dan, I hope you have fun on Friday.\n            Brian\n\t    \n\n\n\t    Yes.\n            This issue was on last Monday's SW-CG agenda but time ran out before we were able to discuss this.\n            The need isn't urgent (e.g. no need to have a rdf-core call just for this issue) but should be addressed some time by the end of the month.\n            --\n            eric miller http://www.w3.org/people/em/\n            semantic web activity lead http://www.w3.org/2001/sw/\n            w3c world wide web consortium http://www.w3.org/\n\t    ",
     "user_1":"bwm@hplb.hpl.hp.com",
-    "user_2":"em@w3.org",
-    "name":"no RDF Core telcon this friday, 9Jan, right?"
-  },
-  {
-    "content":"\n\t    Yes.\n            This issue was on last Monday's SW-CG agenda but time ran out before we were able to discuss this.\n            The need isn't urgent (e.g. no need to have a rdf-core call just for this issue) but should be addressed some time by the end of the month.\n            --\n            eric miller http://www.w3.org/people/em/\n            semantic web activity lead http://www.w3.org/2001/sw/\n            w3c world wide web consortium http://www.w3.org/\n\t    \n\n\n            yes.\n            Good question, but I haven't done the relevant calendar research to figure it out.\n            EricM, I leave that to you.\n            Call/page me if you'd like help.\n            Likewise. 1/2 ;-)\n            Dan Connolly, W3C http://www.w3.org/People/Connolly/\n\t    ",
-    "user_1":"em@w3.org",
-    "user_2":"connolly@w3.org",
-    "name":"no RDF Core telcon this friday, 9Jan, right?"
-  },
-  {
-    "content":"\n\t    Yes.\n            This issue was on last Monday's SW-CG agenda but time ran out before we were able to discuss this.\n            The need isn't urgent (e.g. no need to have a rdf-core call just for this issue) but should be addressed some time by the end of the month.\n            --\n            eric miller http://www.w3.org/people/em/\n            semantic web activity lead http://www.w3.org/2001/sw/\n            w3c world wide web consortium http://www.w3.org/\n\t    ",
-    "user_1":"em@w3.org",
-    "user_2":"w3c-rdfcore-wg@w3.org",
-    "name":"no RDF Core telcon this friday, 9Jan, right?"
-  },
-  {
-    "content":"\n\t    Personally I prefer not to discuss postponed issues (for new recs?) until we've got this one in the bag.\n            As HP rep the position I represented was we did not need to resolve these issues in this standardization round.\n            For the next few weeks that remains the position I wish to represent.\n            When we get to rec, I have things that I individually think about the postponed issues and could contribute to a discussion.\n            Sorry for being so cautious.\n            Jeremy\n\t    ",
-    "user_1":"jjc@hplb.hpl.hp.com",
-    "user_2":"connolly@w3.org",
-    "name":"no RDF Core telcon this friday, 9Jan, right?"
-  },
-  {
-    "content":"\n\t    Personally I prefer not to discuss postponed issues (for new recs?) until we've got this one in the bag.\n            As HP rep the position I represented was we did not need to resolve these issues in this standardization round.\n            For the next few weeks that remains the position I wish to represent.\n            When we get to rec, I have things that I individually think about the postponed issues and could contribute to a discussion.\n            Sorry for being so cautious.\n            Jeremy\n\t    \n\n\n\t\tI am not sure that we can have a procedural only discussion\n            - I guess if I am unconfortable I will just stay quiet\n            - and my silence should not be interpreted as assent.\n            For instance, I decided to not reply to Grahams msg on the postponed issues despite disagreeing with it.\n            Jeremy\n\t    ",
-    "user_1":"jjc@hplb.hpl.hp.com",
     "user_2":"em@w3.org",
     "name":"no RDF Core telcon this friday, 9Jan, right?"
   },
@@ -482,7 +374,7 @@
   {
     "content":"\n            And at least on &quot;people&quot; would like you te be present\n            - even at the end of a phone line (though in person would be better, of course!)\n            Marjolein Katsma\n            HomeSite Help - http://hshelp.com/\n            Bookstore for Webmasters - http://hshelp.com/bookstore/bookstore.html\n            At 09:28 AM 5/31/01 -0400, Charles McCathieNevile wrote:\n\t    ",
     "user_1":"access@javawoman.com",
-    "user_2":"love26@gorge.net(William Loughborough)",
+    "user_2":"love26@gorge.net",
     "name":"Phone connection to face to face meeting."
   },
   {
@@ -498,7 +390,7 @@
     "name":"Phone connection to face to face meeting."
   },
   {
-    "content":"\n\t    Add Phil Jenkins to the list of &quot;on the phone&quot;\n            I will not be in the office, so an 800 number would be best.\n            Regards,\n            Phill Jenkins, (512) 838-4517\n            IBM Research Division - Accessibility Center\n            11501 Burnet Rd, Austin TX 78758 http://www.ibm.com/able\n\t    \n\n\n\t    Since it will be Mountain time where I'll be, 9am - 5pm Amsterdam time is 1am - 9am, so I would participate the second half of the day.\n            Is there a good time to call in after Amsterdam lunch?\n            Regards,\n            Phill Jenkins, (512) 838-4517\n            IBM Research Division - Accessibility Center\n            11501 Burnet Rd, Austin TX 78758 http://www.ibm.com/able\n\t    ",
+    "content":"\n\t    Add Phil Jenkins to the list of &quot;on the phone&quot;\n            I will not be in the office, so an 800 number would be best.\n            Regards,\n            Phill Jenkins, (512) 838-4517\n            IBM Research Division - Accessibility Center\n            11501 Burnet Rd, Austin TX 78758 http://www.ibm.com/able\n\t    ",
     "user_1":"pjenkins@us.ibm.com",
     "user_2":"w3c-wai-au@w3.org",
     "name":"Phone connection to face to face meeting."
@@ -528,7 +420,7 @@
     "name":"Face to face meetings"
   },
   {
-    "content":"\n            The Nashville conference is the Educause conference from October 10-13.\n            All courseware developers will be attending.\n            Norman Coombs and I will be presenting on accessible courseware authoring.\n            Information about the event is at: http://www.educause.edu/conference/e2000\n            For the face to face meeting we had talked about having a working meeting.\n            We would have a set of tasks ie. Techniques for specific checkpoints, designing the conformance document, evaluating representative tools.\n            We would break out into small groups to create drafts and then gather as a whole group to review the drafts.\n            Jutta\n\t    \n\n\n            Liddy has been admirably getting up at 2am on a regular basis to join our call.\n            I don't think we should continue to ask her to do that.\n            I would like to find an alternative time that works for everyone that regularly attends the teleconference.\n            This needs to take into account European time, Australian time and both east and west coast North American time.\n            How is everyone with 4:00pm EDT on Monday, Tuesday or Wednesday?\n            This would make it 6:00am in Australia and 9:00 pm in Europe.\n            Or does anyone have an alternative suggestion?\n            Jutta\n\t    \n\n\n            We had discussed the possibility of a meeting together with the ATIA conference http://www.atia.org/conf_2004.html.\n            ATIA is quite firm that they do not want any meetings to overlap with their events if we plan it through them.\n            I already have an IMS meeting scheduled for Saturday afternoon and Sunday (January 17th and 18th).\n            Several people in ATAG are unavailable prior to the ATIA meetings.\n            This leaves two options, to plan our meetings in Orlando but not through ATIA or to hold the meetings on Monday the 19th and Tuesday the 20th.\n            Monday is Martin Luther King day.\n            What are your thoughts?\n            Can you suggest another venue and possible sponsor?\n            I am pursuing one other possibility but would like to hear back from the possible sponsor before I suggest it.\n            Thanks for your input.\n            Jutta\n            --\n\t    \n\n\n\t    Planning meetings a year in advance (at least tentatively) is a good idea.\n            I will add this to the agenda for the next call.\n            Jutta\n            --\n\t    \n\n\n            We did hold a short meeting with Phil and Heather on the call.\n            The Summit was discussed.\n            Heather will not be able to make it due to wedding plans, IBM will be there.\n            Everyone thought it was a good opportunity to pull together the various efforts.\n            Jutta\n\t    ",
+    "content":"\n            The Nashville conference is the Educause conference from October 10-13.\n            All courseware developers will be attending.\n            Norman Coombs and I will be presenting on accessible courseware authoring.\n            Information about the event is at: http://www.educause.edu/conference/e2000\n            For the face to face meeting we had talked about having a working meeting.\n            We would have a set of tasks ie. Techniques for specific checkpoints, designing the conformance document, evaluating representative tools.\n            We would break out into small groups to create drafts and then gather as a whole group to review the drafts.\n            Jutta\n\t    \n\n\n            Liddy has been admirably getting up at 2am on a regular basis to join our call.\n            I don't think we should continue to ask her to do that.\n            I would like to find an alternative time that works for everyone that regularly attends the teleconference.\n            This needs to take into account European time, Australian time and both east and west coast North American time.\n            How is everyone with 4:00pm EDT on Monday, Tuesday or Wednesday?\n            This would make it 6:00am in Australia and 9:00 pm in Europe.\n            Or does anyone have an alternative suggestion?\n            Jutta\n\t    \n\n\n            We had discussed the possibility of a meeting together with the ATIA conference http://www.atia.org/conf_2004.html.\n            ATIA is quite firm that they do not want any meetings to overlap with their events if we plan it through them.\n            I already have an IMS meeting scheduled for Saturday afternoon and Sunday (January 17th and 18th).\n            Several people in ATAG are unavailable prior to the ATIA meetings.\n            This leaves two options, to plan our meetings in Orlando but not through ATIA or to hold the meetings on Monday the 19th and Tuesday the 20th.\n            Monday is Martin Luther King day.\n            What are your thoughts?\n            Can you suggest another venue and possible sponsor?\n            I am pursuing one other possibility but would like to hear back from the possible sponsor before I suggest it.\n            Thanks for your input.\n            Jutta\n            --\n\t    ",
     "user_1":"jutta.treviranus@utoronto.ca",
     "user_2":"w3c-wai-au@w3.org",
     "name":"Face to face meetings"
@@ -552,7 +444,7 @@
     "name":"RE: Meeting today - possible partial regrets"
   },
   {
-    "content":"\n            Thank you\n            - I do appreciate this gesture.\n            I believe 4.00pm on Tuesday would clash with the IMS meetings, if they continue at that time...\n            Liddy\n\t    \n\n\n            does it help to have different times?\n            I will be in Europe for a few weeks soon and so we could have meeting times that suit the meetings\n            - boring but maybe better for actual events?\n            Liddy\n\t    \n\n\n            I thought the IMS meeting was 16/17 ???\n            MLK Day is never better than in Savannah!\n            maybe we could go there?\n            I personally don't want to spend my life in Orlando, thank you!\n            I have to be in NY on the 23rd and then plan to go home.\n            I am not essential to this meeting, but there are my constraints.\n            Liddy\n\t    \n\n\n            Voglio andare a venezia!\n            oops\n            - one should not show such enthusiasm, I suspect!\n            Could we be careful to make the dates so that those of us who do come a long way can make it, please!\n            Liddy\n\t    \n\n\n\t    If we can plan, what about planning the year, Australia included?\n            best time for us is anytime\n            - maybe northern winter from others' perspectives?\n            Liddy\n\t    ",
+    "content":"\n            Thank you\n            - I do appreciate this gesture.\n            I believe 4.00pm on Tuesday would clash with the IMS meetings, if they continue at that time...\n            Liddy\n\t    \n\n\n            does it help to have different times?\n            I will be in Europe for a few weeks soon and so we could have meeting times that suit the meetings\n            - boring but maybe better for actual events?\n            Liddy\n\t    \n\n\n\t    If we can plan, what about planning the year, Australia included?\n            best time for us is anytime\n            - maybe northern winter from others' perspectives?\n            Liddy\n\t    ",
     "user_1":"Liddy.Nevile@motile.net",
     "user_2":"w3c-wai-au@w3.org",
     "name":"better Australian time for regular teleconferences"
@@ -561,12 +453,6 @@
     "content":"\n            Hi Jutta,\n            The same issue arose a few weeks ago in the PF group.\n            It is very difficult to find a common time that works for every time zone.\n            10pm Central European Time means I can make some of the calls, but not all of them, but I understand the change.\n            regards,\n            carlos\n            --\n            Dr Carlos A Velasco\n            mailto:velasco@fit.fraunhofer.de http://access.fit.fraunhofer.de/\n            Fraunhofer-Institut f?r Angewandte Informationstechnik (FIT.HEB)\n            [Fraunhofer Institute for Applied Information Technology (FIT.HEB)]\n            Schloss Birlinghoven, D53757 Sankt Augustin (Germany)\n            Tel: +49-2241-142609/319272 Fax: +49-2241-142065\n\t    ",
     "user_1":"velasco@fit.fraunhofer.de",
     "user_2":"jutta.treviranus@utoronto.ca",
-    "name":"better Australian time for regular teleconferences"
-  },
-  {
-    "content":"\n            Hi Jutta,\n            The same issue arose a few weeks ago in the PF group.\n            It is very difficult to find a common time that works for every time zone.\n            10pm Central European Time means I can make some of the calls, but not all of them, but I understand the change.\n            regards,\n            carlos\n            --\n            Dr Carlos A Velasco\n            mailto:velasco@fit.fraunhofer.de http://access.fit.fraunhofer.de/\n            Fraunhofer-Institut f?r Angewandte Informationstechnik (FIT.HEB)\n            [Fraunhofer Institute for Applied Information Technology (FIT.HEB)]\n            Schloss Birlinghoven, D53757 Sankt Augustin (Germany)\n            Tel: +49-2241-142609/319272 Fax: +49-2241-142065\n\t    ",
-    "user_1":"velasco@fit.fraunhofer.de",
-    "user_2":"w3c-wai-au@w3.org",
     "name":"better Australian time for regular teleconferences"
   },
   {
@@ -618,12 +504,6 @@
     "name":"Face to face meeting planning"
   },
   {
-    "content":"\n\t    Any time or venue should be fine with me.\n            Thanks, Tim Boland NIST\n\t    ",
-    "user_1":"frederick.boland@nist.gov",
-    "user_2":"w3c-wai-au@w3.org",
-    "name":"Face to face meeting planning"
-  },
-  {
     "content":"\n\t    For 2004, when u prefer (best in may-july) we can host in Venice the F2F.\n            Matt May and Charles can confirm the good place for conference and holiday :)\n            Roberto Scano\n            IWA/HWG EMEA Coordinator\n            W3C Advisory Commitee Representative for IWA/HWG\n            International Webmasters Association / HTML Writers Guild\n            http://www.iwanet.org - http://www.hwg.org\n            E-Mail: emea@iwanet.org - w3c-rep@iwanet.org\n            --------------------------------------------------------------------\n\t    ",
     "user_1":"rscano@iwa-italy.org",
     "user_2":"w3c-wai-au@w3.org",
@@ -639,18 +519,6 @@
     "content":"\n            Voglio andare a venezia!\n            oops\n            - one should not show such enthusiasm, I suspect!\n            Could we be careful to make the dates so that those of us who do come a long way can make it, please!\n            Liddy\n\t    ",
     "user_1":"Liddy.Nevile@motile.net",
     "user_2":"charles@w3.org",
-    "name":"Face to face meeting planning"
-  },
-  {
-    "content":"\n            Voglio andare a venezia!\n            oops\n            - one should not show such enthusiasm, I suspect!\n            Could we be careful to make the dates so that those of us who do come a long way can make it, please!\n            Liddy\n\t    ",
-    "user_1":"Liddy.Nevile@motile.net",
-    "user_2":"rscano@iwa-italy.org",
-    "name":"Face to face meeting planning"
-  },
-  {
-    "content":"\n\t    Planning meetings a year in advance (at least tentatively) is a good idea.\n            I will add this to the agenda for the next call.\n            Jutta\n            --\n\t    ",
-    "user_1":"jutta.treviranus@utoronto.ca",
-    "user_2":"rscano@iwa-italy.org",
     "name":"Face to face meeting planning"
   },
   {
@@ -678,12 +546,6 @@
     "name":"Non-geek version of guidelines"
   },
   {
-    "content":"\n\t    What about the WCAG Curriculum?\n            Particularly the Example Set of the WCAG Curriculum?\n            Curriculum: http://www.starlingweb.com/wai/wcag/\n            Example set: http://www.starlingweb.com/wai/wcag/sam1-0.htm\n            Please note that the curriculum will be moving to W3C space in the next week or so.\n            Don't bookmark pages in the above site as they will soon be invalid.\n            Once the curriculum is in the W3C space, WAI EO will likely start promoting it more heavily.\n            Regards,\n            Chuck\n            ----\n            Starling Access Services\n            &quot;Access A World Of Possibility&quot;\n            e-mail: info@starlingweb.com\n            URL: http://www.starlingweb.com\n            Phone: 613-820-2272 FAX: 613-820-6983\n\t    ",
-    "user_1":"cpl@starlingweb.com",
-    "user_2":"w3c-wai-eo@w3.org",
-    "name":"Non-geek version of guidelines"
-  },
-  {
     "content":"\n            Please take a look at www.peepo.com/access for a first small attempt at this.\n            If you are prepared to create something else, please try to use good examples rather than text.\n            (as in QED) and post the URI so we can take a look.\n            jay@peepo.com\n            Jonathan Chetwynd\n            Special needs teacher / web accessibility consultant\n\t    ",
     "user_1":"jay@peepo.com",
     "user_2":"love26@gorge.net",
@@ -693,12 +555,6 @@
     "content":"\n            Please take a look at www.peepo.com/access for a first small attempt at this.\n            If you are prepared to create something else, please try to use good examples rather than text.\n            (as in QED) and post the URI so we can take a look.\n            jay@peepo.com\n            Jonathan Chetwynd\n            Special needs teacher / web accessibility consultant\n\t    ",
     "user_1":"jay@peepo.com",
     "user_2":"acantor@interlog.com",
-    "name":"Non-geek version of guidelines"
-  },
-  {
-    "content":"\n            Please take a look at www.peepo.com/access for a first small attempt at this.\n            If you are prepared to create something else, please try to use good examples rather than text.\n            (as in QED) and post the URI so we can take a look.\n            jay@peepo.com\n            Jonathan Chetwynd\n            Special needs teacher / web accessibility consultant\n\t    ",
-    "user_1":"jay@peepo.com",
-    "user_2":"w3c-wai-eo@w3.org",
     "name":"Non-geek version of guidelines"
   },
   {
@@ -717,12 +573,6 @@
     "content":"\n            Got a &quot;could not connect to remote server&quot; from both links at http://www.peepo.com/access\n            - Judy\n            --\n            Judy Brewer jbrewer@w3.org +1.617.258.9741 http://www.w3.org/WAI\n            Director, Web Accessibility Initiative (WAI) International Program Office\n            World Wide Web Consortium (W3C)\n            MIT/LCS Room NE43-355, 545 Technology Square, Cambridge, MA, 02139, USA\n\t    ",
     "user_1":"jbrewer@w3.org",
     "user_2":"acantor@interlog.com",
-    "name":"Non-geek version of guidelines"
-  },
-  {
-    "content":"\n            Got a &quot;could not connect to remote server&quot; from both links at http://www.peepo.com/access\n            - Judy\n            --\n            Judy Brewer jbrewer@w3.org +1.617.258.9741 http://www.w3.org/WAI\n            Director, Web Accessibility Initiative (WAI) International Program Office\n            World Wide Web Consortium (W3C)\n            MIT/LCS Room NE43-355, 545 Technology Square, Cambridge, MA, 02139, USA\n\t    ",
-    "user_1":"jbrewer@w3.org",
-    "user_2":"w3c-wai-eo@w3.org",
     "name":"Non-geek version of guidelines"
   },
   {
@@ -774,7 +624,7 @@
     "name":"WCAG Conference call TODAY"
   },
   {
-    "content":"\n            could you please be sure to always include the telephone number and times in these communications please.\n            I have great difficulty in being available due to teaching duties.\n            --\n            jay@peepo.com\n\t    \n\n\n            seconded\n            --\n            jay@peepo.com\n\t    \n\n\n            seconded\n            --\n            jay@peepo.com\n\t    \n\n\n\t    If all web authors felt like this about groups they are not prepared to cater to, its no wonder we need WAI.\n            jay@peepo.com\n            special needs teacher\n            web accessibility consultant\n\t    ",
+    "content":"\n            could you please be sure to always include the telephone number and times in these communications please.\n            I have great difficulty in being available due to teaching duties.\n            --\n            jay@peepo.com\n\t    \n\n\n            seconded\n            --\n            jay@peepo.com\n\t    \n\n\n            seconded\n            --\n            jay@peepo.com\n\t    ",
     "user_1":"jay@peepo.com",
     "user_2":"w3c-wai-gl@w3.org",
     "name":"WCAG Conference call TODAY"
@@ -804,7 +654,7 @@
     "name":"WCAG Conference call TODAY"
   },
   {
-    "content":"\n            Question: Does a requirement to use graphics \"when appropriate\" -- something that may not be easily done by users with visual disabilities -- mean that blind people are not going to be \"good\" web designers?\n            Especially if we are going to expect them to be skilled in graphical user interface design and understand how to use images to communicate with people with cognitive disabilities?\n            If we adopted a \"use graphics\" requirement as a P1, would a blind designer be able to meet that requirement effectively?\n            Just thinking out loud\n            -- don't mind me.\n            --\n            Kynn Bartlett &lt;kynn@idyllmtn.com&gt; http://www.kynn.com/\n            Director of Accessibility, edapta http://www.edapta.com/\n            Chief Technologist, Idyll Mountain Internet http://www.idyllmtn.com/\n            AWARE Center Director http://www.awarecenter.org/\n\t    \n\n\n\t    It's not the same, because a blind person can simply choose to -not- use an image if they feel they can't reasonably describe it...under the current guidelines.\n            (This changes when images become a -requirement for accessibility-.)\n            You do bring up a good point, however, that many people who can see are also not \"visually capable\" and may not be able to provide graphics easily.\n            I'm not sure if -I- can provide decent graphics for my sites\n            -- and I refuse to believe that I need to give up web design because people with CDs (supposedly) need graphics...\n            --\n            Kynn Bartlett &lt;kynn@idyllmtn.com&gt; http://www.kynn.com/\n            Director of Accessibility, edapta http://www.edapta.com/\n            Chief Technologist, Idyll Mountain Internet http://www.idyllmtn.com/\n            AWARE Center Director http://www.awarecenter.org/\n            Next of Kynn: a quasi-regular web log http://www.kynn.com/next/\n\t    ",
+    "content":"\n            Question: Does a requirement to use graphics \"when appropriate\" -- something that may not be easily done by users with visual disabilities -- mean that blind people are not going to be \"good\" web designers?\n            Especially if we are going to expect them to be skilled in graphical user interface design and understand how to use images to communicate with people with cognitive disabilities?\n            If we adopted a \"use graphics\" requirement as a P1, would a blind designer be able to meet that requirement effectively?\n            Just thinking out loud\n            -- don't mind me.\n            --\n            Kynn Bartlett &lt;kynn@idyllmtn.com&gt; http://www.kynn.com/\n            Director of Accessibility, edapta http://www.edapta.com/\n            Chief Technologist, Idyll Mountain Internet http://www.idyllmtn.com/\n            AWARE Center Director http://www.awarecenter.org/\n\t    ",
     "user_1":"kynn@idyllmtn.com",
     "user_2":"w3c-wai-gl@w3.org",
     "name":"Appropriate Use of Graphics, and Web Design by Blind People"
@@ -849,12 +699,6 @@
     "content":"\n\t    Jonathan, do you really mean to be insulting to me?\n            We may be having a comprehension problem, but if you're going to react in a way that seems to question my \"loyalty to cause\" -- despite being willing to take the time needed to work through this issue, as my repeated email messages haven proven that I'm willing to do -- then you're likely to turn away even MORE people who could be your strongest allies.\n            Perhaps this is just a communication error\n            -- your \"style\" of writing is vastly different from mine, and I certainly see how confusion could result.\n            --\n            Kynn Bartlett &lt;kynn@operamail.com&gt;\n            http://www.kynn.com/\n            My Browser Is Faster Than Yours\n\t    ",
     "user_1":"kynn@operamail.com",
     "user_2":"kynn@idyllmtn.com",
-    "name":"Appropriate Use of Graphics, and Web Design by Blind People"
-  },
-  {
-    "content":"\n\t    Jonathan, do you really mean to be insulting to me?\n            We may be having a comprehension problem, but if you're going to react in a way that seems to question my \"loyalty to cause\" -- despite being willing to take the time needed to work through this issue, as my repeated email messages haven proven that I'm willing to do -- then you're likely to turn away even MORE people who could be your strongest allies.\n            Perhaps this is just a communication error\n            -- your \"style\" of writing is vastly different from mine, and I certainly see how confusion could result.\n            --\n            Kynn Bartlett &lt;kynn@operamail.com&gt;\n            http://www.kynn.com/\n            My Browser Is Faster Than Yours\n\t    ",
-    "user_1":"kynn@operamail.com",
-    "user_2":"w3c-wai-gl@w3.org",
     "name":"Appropriate Use of Graphics, and Web Design by Blind People"
   },
   {
@@ -906,12 +750,6 @@
     "name":"General Rule - Do not forbid - only guide except for safety"
   },
   {
-    "content":"\n            At 06:38 PM 3/24/2001 , Gregg Vanderheiden wrote:\n            I agree with this approach. Consistent with this approach, I feel,\n            is a methodology of &quot;guiding&quot; which says &quot;well, you -can- do it, but\n            to do it right you have to do (x), (y), and (z), and that will still\n            mean you're losing out on (a), (b), and (c), but if you REALLY REALLY\n            WANT TO, hey, it's your choice.&quot;\n            This isn't forbidding anything -- but it's making it clear that there\n            are definite problems with certain approaches, and if someone chooses\n            to follow that path, they at least will be aware of the consequences\n            of their actions.\n            --Kynn\n            Kynn Bartlett &amp;lt;kynn@reef.com&amp;gt;\n            Technical Developer Liaison\n            Reef North America\n            Tel +1 949-567-7006\n            ________________________________________\n            ACCESSIBILITY IS DYNAMIC. TAKE CONTROL.\n            ________________________________________\n            http://www.reef.com\n\t    \n\n\n\t    Excellent point -- the body of knowledge for disability access\n            considerations, beyond those of blind people (which are generally\n            well-explored these days), is pretty skimpy. We're -still- in the\n            exploration/discovery process of &quot;what works&quot;, and as we see more\n            solutions like Reef's -- which allow you to build an interface for\n            ONE audience without fearing interference with OTHER audiences'\n            interfaces -- we will encounter more and more solutions which will\n            &quot;work&quot; for some people and &quot;not work&quot; for others.\n            Forbidding them outright will cause a lot of problems, in the same\n            way that alternate interfaces stated &quot;as a last resort&quot; cause problems\n            when usable, accessible design is your &quot;first resort&quot;!\n            Absolutes should be avoided, always.\n            --Kynn\n            --\n            Kynn Bartlett &amp;lt;kynn@idyllmtn.com&amp;gt;\n            http://www.kynn.com/\n\t     At 8:08 PM -0500 3/26/01, Anne Pemberton wrote:\n\t    ",
-    "user_1":"kynn-edapta@idyllmtn.com",
-    "user_2":"w3c-waI-gl@w3.org",
-    "name":"General Rule - Do not forbid - only guide except for safety"
-  },
-  {
     "content":"\n            I think even WCAG 1.0 can be regarded as consistent with this method of\n            specifying guidelines, in that the word &quot;avoid&quot; was deliberately chosen to\n            imply the existence of alternative, more accessible, means of achieving\n            the same objective. WCAG 2.0 should, however, make this point clearer, to\n            avoid (pun intended) giving the impression that there are prohibitions in\n            the guidelines that would limit the capacity of content creators to design\n            web sites that fulfill their respective purposes.\n\t    ",
     "user_1":"jasonw@ariel.ucs.unimelb.edu.au",
     "user_2":"w3c-wai-gl@w3.org",
@@ -933,6 +771,12 @@
     "content":"\n\t    Excellent point -- the body of knowledge for disability access\n            considerations, beyond those of blind people (which are generally\n            well-explored these days), is pretty skimpy. We're -still- in the\n            exploration/discovery process of &quot;what works&quot;, and as we see more\n            solutions like Reef's -- which allow you to build an interface for\n            ONE audience without fearing interference with OTHER audiences'\n            interfaces -- we will encounter more and more solutions which will\n            &quot;work&quot; for some people and &quot;not work&quot; for others.\n            Forbidding them outright will cause a lot of problems, in the same\n            way that alternate interfaces stated &quot;as a last resort&quot; cause problems\n            when usable, accessible design is your &quot;first resort&quot;!\n            Absolutes should be avoided, always.\n            --Kynn\n            --\n            Kynn Bartlett &amp;lt;kynn@idyllmtn.com&amp;gt;\n            http://www.kynn.com/\n\t     At 8:08 PM -0500 3/26/01, Anne Pemberton wrote:\n\t    ",
     "user_1":"kynn-edapta@idyllmtn.com",
     "user_2":"apembert@erols.com",
+    "name":"General Rule - Do not forbid - only guide except for safety"
+  },
+  {
+    "content":"\n\t    Excellent point -- the body of knowledge for disability access\n            considerations, beyond those of blind people (which are generally\n            well-explored these days), is pretty skimpy. We're -still- in the\n            exploration/discovery process of &quot;what works&quot;, and as we see more\n            solutions like Reef's -- which allow you to build an interface for\n            ONE audience without fearing interference with OTHER audiences'\n            interfaces -- we will encounter more and more solutions which will\n            &quot;work&quot; for some people and &quot;not work&quot; for others.\n            Forbidding them outright will cause a lot of problems, in the same\n            way that alternate interfaces stated &quot;as a last resort&quot; cause problems\n            when usable, accessible design is your &quot;first resort&quot;!\n            Absolutes should be avoided, always.\n            --Kynn\n            --\n            Kynn Bartlett &amp;lt;kynn@idyllmtn.com&amp;gt;\n            http://www.kynn.com/\n\t     At 8:08 PM -0500 3/26/01, Anne Pemberton wrote:\n\t    ",
+    "user_1":"kynn-edapta@idyllmtn.com",
+    "user_2":"w3c-waI-gl@w3.org",
     "name":"General Rule - Do not forbid - only guide except for safety"
   },
   {
@@ -972,7 +816,7 @@
     "name":"word comprhension"
   },
   {
-    "content":"\n\t    No, it's not obvious at all.\n            Yes, when in doubt, hypenate compounds if you have any doubt as to how long they have been in the language.\n            Some screen readers will successfully divide camelCase agglutinations.\n            I don't know how widespread this is, though.\n            You would have to have the memory of an elephant to pull up the following flames.\n            But they do touch on text-to-speech, along with lay persons, people operating in a second language, and others with reading difficulty as at risk on account of unusual words including neologisms:\n            http://lists.w3.org/Archives/Public/w3c-wai-er-ig/2000Dec/0079.html\n            http://lists.w3.org/Archives/Public/w3c-wai-gl/2001JulSep/0542.html\n            The point is to have and apply a reasonably small word list and handle those things that fall outside this list as special.\n            My spell-checker in Eudora 4 bounces 'homepage' and suggests &quot;home page&quot; as a possible correction.\n            Need we say more?\n            It could be as simple as &lt;acronym title=&quot;home page&quot;&gt; homepage &lt;/acronym&gt; although purists will yell at me.\n            Al\n            Al\n\t    \n\n\n\t    Sorry, you are missing the main brunt of Jonathan's remarks.\n            Yes, SSML, modularized, provides the WCAG piece.\n            But who/how accesses the dictionary?\n            One of the creative things he raises is uploading your pronunciation repairs to the community.\n            What Annotea would like to do.\n            But personal data is in LDAP today, not RDF.\n            So we need LDAP bindings for the SSML.\n            To make the web whole.\n            Al\n\t    ",
+    "content":"\n\t    No, it's not obvious at all.\n            Yes, when in doubt, hypenate compounds if you have any doubt as to how long they have been in the language.\n            Some screen readers will successfully divide camelCase agglutinations.\n            I don't know how widespread this is, though.\n            You would have to have the memory of an elephant to pull up the following flames.\n            But they do touch on text-to-speech, along with lay persons, people operating in a second language, and others with reading difficulty as at risk on account of unusual words including neologisms:\n            http://lists.w3.org/Archives/Public/w3c-wai-er-ig/2000Dec/0079.html\n            http://lists.w3.org/Archives/Public/w3c-wai-gl/2001JulSep/0542.html\n            The point is to have and apply a reasonably small word list and handle those things that fall outside this list as special.\n            My spell-checker in Eudora 4 bounces 'homepage' and suggests &quot;home page&quot; as a possible correction.\n            Need we say more?\n            It could be as simple as &lt;acronym title=&quot;home page&quot;&gt; homepage &lt;/acronym&gt; although purists will yell at me.\n            Al\n            Al\n\t    ",
     "user_1":"asgilman@iamdigex.net",
     "user_2":"w3c-wai-gl@w3.org",
     "name":"word comprhension"
@@ -1002,12 +846,6 @@
     "name":"Acrobat 6.0 Question"
   },
   {
-    "content":"\n\t    Doyle,\n            The Make Accessible command is now available in Acrobat Pro 6.0 for the Mac as well as for Windows.\n            Loretta\n\t    \n\n\n\t    A clarification:\n            it is available in both Acrobat 6.0 Professional and Acrobat 6.0 Standard, for the Mac and Windows.\n\t    \n\n\n            Sailesh,\n            Make Accessible is a command that attempts to analyze an untagged PDF file and infer logical structure from the marks on the page.\n            This would be used by an author who is trying to repair accessibility problems in an existing PDF file.\n            The best analogy is that it is doing OCR on the logical strucure.\n            Like OCR technology, it is imperfect, and the results should be reviewed and corrected, if necessary, by the author.\n            In Acrobat 5, this command was only available on Windows.\n            In Acrobat 6, it is available for both Mac and Windows.\n            When the Adobe Reader 6.0 is presenting an untagged PDF file to assistive technology, it automatically runs MakeAccessible internally to infer logical structure.\n            This can make loading an untagged PDF considerably slower than loading a tagged PDF, but makes it possible, for example, to read tables even in an untagged PDF.\n            Loretta\n\t    ",
-    "user_1":"lguarino@adobe.com",
-    "user_2":"w3c-wai-gl@w3.org",
-    "name":"Acrobat 6.0 Question"
-  },
-  {
     "content":"\n            Hello Loretta/Doyle,\n            I am just not sure what the Make Accessible feature really does.\n            I am a JAWS user and a PDF file is as usable or unusable as it was before I run the Make Accessible feature on it.\n            I'll be glad if you can enlighten me on this.\n            Sailesh\n\t    ",
     "user_1":"sailesh.panchang@deque.com",
     "user_2":"dburnett@sesa.org",
@@ -1017,12 +855,6 @@
     "content":"\n            Hello Loretta/Doyle,\n            I am just not sure what the Make Accessible feature really does.\n            I am a JAWS user and a PDF file is as usable or unusable as it was before I run the Make Accessible feature on it.\n            I'll be glad if you can enlighten me on this.\n            Sailesh\n\t    \n\n\n            Sailesh,\n            Make Accessible is a command that attempts to analyze an untagged PDF file and infer logical structure from the marks on the page.\n            This would be used by an author who is trying to repair accessibility problems in an existing PDF file.\n            The best analogy is that it is doing OCR on the logical strucure.\n            Like OCR technology, it is imperfect, and the results should be reviewed and corrected, if necessary, by the author.\n            In Acrobat 5, this command was only available on Windows.\n            In Acrobat 6, it is available for both Mac and Windows.\n            When the Adobe Reader 6.0 is presenting an untagged PDF file to assistive technology, it automatically runs MakeAccessible internally to infer logical structure.\n            This can make loading an untagged PDF considerably slower than loading a tagged PDF, but makes it possible, for example, to read tables even in an untagged PDF.\n            Loretta\n\t    ",
     "user_1":"sailesh.panchang@deque.com",
     "user_2":"lguarino@adobe.com",
-    "name":"Acrobat 6.0 Question"
-  },
-  {
-    "content":"\n            Hello Loretta/Doyle,\n            I am just not sure what the Make Accessible feature really does.\n            I am a JAWS user and a PDF file is as usable or unusable as it was before I run the Make Accessible feature on it.\n            I'll be glad if you can enlighten me on this.\n            Sailesh\n\t    ",
-    "user_1":"sailesh.panchang@deque.com",
-    "user_2":"w3c-wai-gl@w3.org",
     "name":"Acrobat 6.0 Question"
   },
   {
@@ -1038,19 +870,13 @@
     "name":"Usability testing"
   },
   {
-    "content":"\n\t    I'd use Netscape 3.x and 4.x, a version of MS Internet Explorer (as you can't have two versions on the same machine to my knowledge), a text browser such as lynx., PwWebSpeak for the voice browser and maybe Opera if you have extra time and money.\n            Also to be considered is the use of a general screen reader such as Jaws For Windows.\n            Use of tools such as bobby and HTML validators is also essential.\n            It might be sensible to have disabled users actually do the testing.\n            See also:\n            http://www.eeicom.com/dcwebmasters/pwd/\n            http://www.geocities.com/SiliconValley/Grid/5447/access.html (not yet\n            refined)\n            -Jamie Fox\n\t    \n\n\n            Many people required to edit and create web pages and/or sites are not web professionals and the only \"WYSIWYG\" tool available to them is Word.\n            I daresay that most people don't know HTML and are not going to learn it so that they can make an accessible page through a text editor.\n            This is especially true if the only editing required of them is small such as changing the grammar on a web page or correcting spelling of a word.\n            This is exactly why the authoring tools aspect of the WAI is so important.\n            -Jamie Fox\n            -----\n\t    ",
-    "user_1":"jfox@fenix2.dol-esa.gov",
-    "user_2":"w3c-wai-ig@w3.org",
-    "name":"Usability testing"
-  },
-  {
     "content":"\n            I'm replying publicly because this is an important issue which is facing a lot of people, not just you.\n            (You are just the 1% prepared to put their hand up and ask...)\n            I would skip IE/Netscape, since designers worth 2c can tell you already how things work there by reading the code.\n            The first thing I would do is validate the HTML and check with Bobby, but read the results and think about it rather than simply believing what you're told.\n            For browsers I would look at Lynx, a screen reader (eg winvision, or jaws) and a proper audio browser like pwWebSpeak.\n            If you can, use WebTV and a Macintosh version of things\n            - this will generally show up the problems much faster.\n            The key is to learn where the problems arise so you can cut back the test/repair cycle.\n            It is a great efficiency if you can solve the problems by design rather than by repair.\n            Charles McCathieNevile\n            This is a very large ballpark and I need to narrow the options we're going to explore.\n\t    ",
     "user_1":"charlesn@srl.rmit.EDU.AU",
     "user_2":"joe.night@gateway2000.com",
     "name":"Usability testing"
   },
   {
-    "content":"\n\t    Ok, who has some good reference URLs for WebTV?\n\t    \n\n\n\t    FYI, \"EEI Communications\" was off-line this morning and is now operational.\n\t    ",
+    "content":"\n\t    Ok, who has some good reference URLs for WebTV?\n\t    ",
     "user_1":"rcn@fenix2.dol-esa.gov",
     "user_2":"w3c-wai-ig@w3.org",
     "name":"Usability testing"
@@ -1064,19 +890,7 @@
   {
     "content":"\n\t    By the way, if you weren't aware, there's an emulator for WebTV that runs on Windows 95/* and Macintosh that you can download from developer.webtv.net.\n            I recommend it to my accessibility class students, since the more browsers you expose someone to, the quicker they realize that the web is designed to support ANY valid user agent, not just \"the big two\".\n            --Kynn\n\t    ",
     "user_1":"kynn-hwg@idyllmtn.com",
-    "user_2":"charlesn@srl.rmit.EDU.AU(Charles McCathie Nevile)",
-    "name":"Usability testing"
-  },
-  {
-    "content":"\n\t    By the way, if you weren't aware, there's an emulator for WebTV that runs on Windows 95/* and Macintosh that you can download from developer.webtv.net.\n            I recommend it to my accessibility class students, since the more browsers you expose someone to, the quicker they realize that the web is designed to support ANY valid user agent, not just \"the big two\".\n            --Kynn\n\t    ",
-    "user_1":"kynn-hwg@idyllmtn.com",
-    "user_2":"joe.night@gateway2000.com",
-    "name":"Usability testing"
-  },
-  {
-    "content":"\n\t    By the way, if you weren't aware, there's an emulator for WebTV that runs on Windows 95/* and Macintosh that you can download from developer.webtv.net.\n            I recommend it to my accessibility class students, since the more browsers you expose someone to, the quicker they realize that the web is designed to support ANY valid user agent, not just \"the big two\".\n            --Kynn\n\t    \n\n\n\t    We have three links listed on the AWARE Center site, on the &quot;tips&quot; page:\n            http://aware.hwg.org/tips/\n            But I would love to have more.\n            Diane Wilson's site (linked from the page above) is a nice start:\n            http://www.lava.net/~dewilson/web/color.html\n            --\n            Kynn Bartlett mailto:kynn@hwg.org\n            President, HTML Writers Guild http://www.hwg.org/\n            AWARE Center Director http://aware.hwg.org/\n\t    \n\n\n\t    BTW, Hot Metal Pro, a web editor tool that does pretty good on accessibility and valid HTML, has the ability to import Word files.\n            My wife uses that regularly to convert City of Fullerton documents from Word to HTML, rather than cutting-and-pasting and marking up herself or trusting 'Save as HTML...'\n            --\n            Kynn Bartlett &lt;kynn@idyllmtn.com&gt; http://www.idyllmtn.com/~kynn/\n            Chief Technologist &amp; Co-Owner, Idyll Mountain Internet; Fullerton, California\n            Enroll now for web accessibility with HTML 4.0! http://www.hwg.org/classes/\n            The voice of the future? http://www.hwg.org/opcenter/w3c/voicebrowsers.html\n\t    \n\n\n\t    Why?\n            I view that anyone should be able to access information, regardless of whether or not they have a &quot;disability.&quot;\n            Your access shouldn't be _limited_ because you have a certain quality about you that other people don't have.\n            Regardless if we call that a &quot;disability&quot; or not, it should not interfere with your ability to access content on the Internet.\n            I think it's perfectly reasonable to define &quot;accessibility&quot; with having a strict definition of &quot;disability&quot; as long as your accessibility definition doesn't speak _only_ about access for people who fit that disability definition.\n            --\n            Kynn Bartlett mailto:kynn@hwg.org\n            President, HTML Writers Guild http://www.hwg.org/\n            AWARE Center Director http://aware.hwg.org/\n\t    \n\n\n\t    I like to tell people that if a blind person can't access the web page she's trying to use, the REASON is not _her_ disability, but the disability of the _web author_ who created the page.\n            That web author is &quot;disabled&quot; because he was _not able_ to make a correct web page.\n            Why should she suffer for _his_ problem or failing?\n            In no way is a user with a disability &quot;disabled&quot; on the web\n            -- the sites THEMSELVES have the disability inherent in their code by not being accessible!\n            We should identify the problem where it exists.\n            The problem is not that there's anything &quot;wrong with&quot; the user, it is a problem with the page author and his output!\n            --\n            Kynn Bartlett mailto:kynn@hwg.org\n            President, HTML Writers Guild http://www.hwg.org/\n            AWARE Center Director http://aware.hwg.org/\n\t    \n\n\n            Kynn's personal opinion, not one belonging to the WAI or the HTML Writers Guild --\n            Adam Clayton Powell III?\n            Fearmonger and irresponsible journalist.\n            He thinks he's found &quot;an issue&quot; and has latched onto it in order to &quot;save us from government,&quot; but really he's just a kook.\n            --\n            Kynn Bartlett &amp;lt;kynn@idyllmtn.com&amp;gt; http://www.kynn.com/\n            Chief Technologist, Idyll Mountain Internet http://www.idyllmtn.com/\n            Become AWARE of Web Accessibility! http://aware.hwg.org/\n            The Spring 2000 Virtual Dog Show is now open! http://www.dogshow.com/\n\t    \n\n\n            Ya got me.\n            I don't see it as a closed-door approach, though, the way I read their announcement.\n            http://www.access-board.gov/508Update.htm\n            Maybe I'm just too trusting of gummit workers, but this seems more like typical bureaucracy slowness than any sort of concerted conspiracy to derive us of our rights. :)\n            I suppose that Mr. Yanchulis would be the one to ask, though:\n            For further information contact:\n            Dave Yanchulis, The Access Board\n            (202) 272-5434, ext. 127 (voice),\n            (202) 272-5449 (TTY)\n            E-mail: yanchulis@access-board.gov\n            --\n            Kynn Bartlett mailto:kynn@hwg.org\n            President, HTML Writers Guild http://www.hwg.org/\n            AWARE Center Director http://aware.hwg.org/\n\t    \n\n\n\t    Hey, that's not a bad idea.\n            In fact, I encourage everyone else to share their favorite bookshelf collections\n            -- if relevant to WAI activities.\n            I'll post mine on kynn.com tomorrow when I'm back in the office.\n            --Kynn\n            --\n            --\n            Kynn Bartlett &lt;kynn@idyllmtn.com&gt;\n            http://www.kynn.com/\n\t    ",
-    "user_1":"kynn-hwg@idyllmtn.com",
-    "user_2":"w3c-wai-ig@w3.org",
+    "user_2":"charlesn@srl.rmit.EDU.AU",
     "name":"Usability testing"
   },
   {
@@ -1092,12 +906,6 @@
     "name":"Radio transcripts"
   },
   {
-    "content":"\n            more interestingly check out http://www.cnn.com/TRANSCRIPTS\n            As far as I can tell, it's not linked into their main page yet.\n            Note that the page is extremely table rich (a euphasism of sorts)\n            --but emacspeak/w3 should give you good access.\n            --\n            Best Regards,\n            --raman\n            Adobe Systems Tel: 1 408 536 3945 (W14-128)\n            Advanced Technology Group Fax: 1 408 537 4042\n            W14-128 345 Park Avenue Email: raman@adobe.com\n            San Jose , CA 95110 -2704 Email: raman@cs.cornell.edu\n            http://labrador.corp.adobe.com/~raman/ (Adobe Intranet)\n            http://cs.cornell.edu/home/raman/ (Cornell)\n            ----------------------------------------------------------------------\n            Disclaimer: The opinions expressed are my own and in no way should be taken\n            as representative of my employer, Adobe Systems Inc.\n            ____________________________________________________________\n\t    ",
-    "user_1":"raman@Adobe.COM",
-    "user_2":"w3c-wai-ig@w3.org",
-    "name":"Radio transcripts"
-  },
-  {
     "content":"\n            Public Radio International &amp;lt;http://www.pri.org/&amp;gt; offers RealAudio transcripts of at least some of their shows.\n            Peter Fleck\n            PF Hyper\n            Internet-Web-Consulting-Training\n            Minneapolis, MN USA 55406\n            612-630-9136\n            === pf@pfhyper.com | http://www.pfhyper.com ===\n\t    ",
     "user_1":"pf@pfhyper.com",
     "user_2":"jasonw@ariel.ucs.unimelb.edu.au",
@@ -1110,7 +918,7 @@
     "name":"Radio transcripts"
   },
   {
-    "content":"\n            All,\n            where is the best place to find our specifics about the issues involved with web pages and color blindness?\n            Does anyone know?\n            Sincerely,\n            Mike Burks\n            Chairman Internet Society SIG for Access to the Internet for people with Disabilities\n            www.isoc.org/access/\n            Member Advisory Board International Center for Disability Resources on the Internet\n            www.icdri.org\n\t    \n\n\n\t    All,\n            I want to thank everyone for their quick response to my question....\n            It is greatly appreciated and is going to help out quite a bit.\n            Thank you again for you help.\n            Sincerely,\n            Mike Burks\n            Chairman Internet Society SIG for Access to the Internet for people with Disabilities\n            www.isoc.org/access/\n            Member Advisory Board International Center for Disability Resources on the Internet\n            www.icdri.org\n\t    \n\n\n            All,\n            has anyone heard of www.esight.org?\n            I looked at their site is it accessible?\n            I don t know much about cold fusion sites so I can t tell.\n            Sincerely,\n            Mike Burks\n\t    \n\n\n            My quesiton is how would a screen reader handle that code....\n            look at the source.\n            SIncerely,\n            Mike B\n\t    ",
+    "content":"\n            All,\n            where is the best place to find our specifics about the issues involved with web pages and color blindness?\n            Does anyone know?\n            Sincerely,\n            Mike Burks\n            Chairman Internet Society SIG for Access to the Internet for people with Disabilities\n            www.isoc.org/access/\n            Member Advisory Board International Center for Disability Resources on the Internet\n            www.icdri.org\n\t    \n\n\n\t    All,\n            I want to thank everyone for their quick response to my question....\n            It is greatly appreciated and is going to help out quite a bit.\n            Thank you again for you help.\n            Sincerely,\n            Mike Burks\n            Chairman Internet Society SIG for Access to the Internet for people with Disabilities\n            www.isoc.org/access/\n            Member Advisory Board International Center for Disability Resources on the Internet\n            www.icdri.org\n\t    \n\n\n            All,\n            has anyone heard of www.esight.org?\n            I looked at their site is it accessible?\n            I don t know much about cold fusion sites so I can t tell.\n            Sincerely,\n            Mike Burks\n\t    ",
     "user_1":"mburks952@worldnet.att.net",
     "user_2":"w3c-wai-ig@w3.org",
     "name":"Radio transcripts"
@@ -1125,12 +933,6 @@
     "content":"\n\t   text/html attachment: stored\n\t   ",
     "user_1":"sitekre8@pacbell.net",
     "user_2":"w3c-wai-ig@w3.org",
-    "name":"Radio transcripts"
-  },
-  {
-    "content":"\n\t   text/html attachment: stored\n\t   ",
-    "user_1":"sitekre8@pacbell.net",
-    "user_2":"kynn-hwg@idyllmtn.com",
     "name":"Radio transcripts"
   },
   {
@@ -1167,12 +969,6 @@
     "content":"\n\t    BTW, Hot Metal Pro, a web editor tool that does pretty good on accessibility and valid HTML, has the ability to import Word files.\n            My wife uses that regularly to convert City of Fullerton documents from Word to HTML, rather than cutting-and-pasting and marking up herself or trusting 'Save as HTML...'\n            --\n            Kynn Bartlett &lt;kynn@idyllmtn.com&gt; http://www.idyllmtn.com/~kynn/\n            Chief Technologist &amp; Co-Owner, Idyll Mountain Internet; Fullerton, California\n            Enroll now for web accessibility with HTML 4.0! http://www.hwg.org/classes/\n            The voice of the future? http://www.hwg.org/opcenter/w3c/voicebrowsers.html\n\t    \n\n\n\t    I like to tell people that if a blind person can't access the web page she's trying to use, the REASON is not _her_ disability, but the disability of the _web author_ who created the page.\n            That web author is &quot;disabled&quot; because he was _not able_ to make a correct web page.\n            Why should she suffer for _his_ problem or failing?\n            In no way is a user with a disability &quot;disabled&quot; on the web\n            -- the sites THEMSELVES have the disability inherent in their code by not being accessible!\n            We should identify the problem where it exists.\n            The problem is not that there's anything &quot;wrong with&quot; the user, it is a problem with the page author and his output!\n            --\n            Kynn Bartlett mailto:kynn@hwg.org\n            President, HTML Writers Guild http://www.hwg.org/\n            AWARE Center Director http://aware.hwg.org/\n\t    ",
     "user_1":"kynn-hwg@idyllmtn.com",
     "user_2":"acantor@oise.utoronto.ca",
-    "name":"html to word to html question?"
-  },
-  {
-    "content":"\n\t    BTW, Hot Metal Pro, a web editor tool that does pretty good on accessibility and valid HTML, has the ability to import Word files.\n            My wife uses that regularly to convert City of Fullerton documents from Word to HTML, rather than cutting-and-pasting and marking up herself or trusting 'Save as HTML...'\n            --\n            Kynn Bartlett &lt;kynn@idyllmtn.com&gt; http://www.idyllmtn.com/~kynn/\n            Chief Technologist &amp; Co-Owner, Idyll Mountain Internet; Fullerton, California\n            Enroll now for web accessibility with HTML 4.0! http://www.hwg.org/classes/\n            The voice of the future? http://www.hwg.org/opcenter/w3c/voicebrowsers.html\n\t    ",
-    "user_1":"kynn-hwg@idyllmtn.com",
-    "user_2":"CHRIS.KREUSSLING@ny.frb.org",
     "name":"html to word to html question?"
   },
   {
@@ -1242,7 +1038,7 @@
     "name":"U.S. won't release new Web site regs for review"
   },
   {
-    "content":"\n\t    Yes, a little Civics 101 is in order.\n            The Federal Register _is_ the institution created expressly to make _sure_ citizens have the chance to comment on things before they are imposed.\n            For more information, please consult Federal Register\n            http://www.nara.gov/fedreg/index.html\n            Al\n\t    \n\n\n\t    Is this bookshelf documented on Kynn.COM, or would you consider sharing with us a short list of the references you find the most helpful?\n            Al\n\t    ",
+    "content":"\n\t    Yes, a little Civics 101 is in order.\n            The Federal Register _is_ the institution created expressly to make _sure_ citizens have the chance to comment on things before they are imposed.\n            For more information, please consult Federal Register\n            http://www.nara.gov/fedreg/index.html\n            Al\n\t    ",
     "user_1":"asgilman@iamdigex.net",
     "user_2":"w3c-wai-ig@w3.org",
     "name":"U.S. won't release new Web site regs for review"
@@ -1254,19 +1050,13 @@
     "name":"U.S. won't release new Web site regs for review"
   },
   {
-    "content":"\n            Adam Clayton Powell III sounds about as lost as Thurston Powell III was on &quot;Gilligans Island&quot;!\n            Chris Higgs &lt;c.higgs@landfood.unimelb.edu.au&gt;\n            Institute of Land and Food Resources\n            University of Melbourne http://www.landfood.unimelb.edu.au\n\t    ",
-    "user_1":"c.higgs@landfood.unimelb.edu.au",
-    "user_2":"w3c-wai-ig@w3.org",
-    "name":"U.S. won't release new Web site regs for review"
-  },
-  {
     "content":"\n\t    kelly,\n            That is a good question and should be asked of our next guest, Doug Wakefield on our march 16 web cast at abletv.net.\n            I would add that any other questions you might want to ask doug, should be done on that evening.\n            please check out the exact time for when the webcast will happen under the press release link at abletv.net.\n            Jeffrey pledger\n            President, AbleTV.net\n\t    ",
     "user_1":"jpledger@mindspring.com",
     "user_2":"kford@teleport.com",
     "name":"U.S. won't release new Web site regs for review"
   },
   {
-    "content":"\n\t    kelly,\n            That is a good question and should be asked of our next guest, Doug Wakefield on our march 16 web cast at abletv.net.\n            I would add that any other questions you might want to ask doug, should be done on that evening.\n            please check out the exact time for when the webcast will happen under the press release link at abletv.net.\n            Jeffrey pledger\n            President, AbleTV.net\n\t    \n\n\n\t    Actually, the government is not robbing us of our rights, but protecting us.\n            i know this sounds paradoxical, but it is true.\n            For any NOI (notice of inquiry), NPRM (notice of proposed rule making), etc. the government must follow the procedures established in the apa (i believe it is known as the Americans procedural Act) of 1947, which outlines the procedures of putting the NOI and NPRM out for comment for a specific time period.\n            The problem is that when they do this and get a large response to a particular NPRM, they (the government) is obligated to read each and every one of the responses, corrolate them and summarize them into specific response categories, if possible.\n            They do this with a limited staff.\n            This is not to say that i don't get frustrated either, but just an expalnation of the process.\n            Jeffrey Pledger\n            President, AbleTV.net\n\t    ",
+    "content":"\n\t    kelly,\n            That is a good question and should be asked of our next guest, Doug Wakefield on our march 16 web cast at abletv.net.\n            I would add that any other questions you might want to ask doug, should be done on that evening.\n            please check out the exact time for when the webcast will happen under the press release link at abletv.net.\n            Jeffrey pledger\n            President, AbleTV.net\n\t    ",
     "user_1":"jpledger@mindspring.com",
     "user_2":"w3c-wai-ig@w3.org",
     "name":"U.S. won't release new Web site regs for review"
@@ -1296,12 +1086,6 @@
     "name":"Re: A poll for screen reader users"
   },
   {
-    "content":"\n\t    All I get are the &quot;notify&quot; and &quot;beta tester&quot; links, which lead to forms to fill in the needed information.\n            (These work as they should.)\n            No word on what the site will actually do.\n            Sounds like a lot of E-hype to me.\n            Patrick\n            burke@ucla.edu\n            http://www.dcp.ucla.edu/staff/patrick.htm\n            University of California\n            Los Angeles\n            The Disabilities &amp;amp; Computing Program\n            at the UCLA Office of Academic Computing\n            Analyzing Usability\n            Since 1994\n\t    \n\n\n            I don't get any unusual code (other than the CFM declaration at the top).\n            Otherwise it looks pretty normal, &amp;amp; reads just fine with JFW3.5.\n            A few small problems such as ALT text &quot;pages\\cleardot1.gif&quot; (approx.), but nothing really unusual.\n            Unless there is some CFM-generated applet thing happening that I'm missing completely.\n            Patrick\n            Patrick J. Burke\n            burke@ucla.edu\n            http://www.dcp.ucla.edu/staff/patrick.htm\n            University of California\n            Los Angeles\n            The Disabilities &amp;amp; Computing Program\n            at the UCLA Office of Academic Computing\n            Analyzing Usability\n            Since 1994\n\t    ",
-    "user_1":"burke@ucla.edu",
-    "user_2":"w3c-wai-ig@w3.org",
-    "name":"Re: A poll for screen reader users"
-  },
-  {
     "content":"\n\t    please excuse cross-posting, I have copied this too the list as there has been some discussion over the past 24 months as to the use or lack thereof of animation\n            jonathan chetwynd\n            jc@signbrowser.org.uk\n            special needs teacher\n            web accessibility consultant\n\t    ",
     "user_1":"jc@signbrowser.org.uk",
     "user_2":"w3c-wai-eo@w3.org",
@@ -1320,18 +1104,6 @@
     "name":"Fw: Thank you!"
   },
   {
-    "content":"\n\t    This isn't necessarily the case, William.\n            There is a lot of reading that is non-textual.\n            I _highly_ recommend, to everyone on this list, the book \"Understanding Comics\" by Scott McCloud.\n            It deals with the (U.S.) comic book medium and has some interesting thoughts and concepts on the \"language of comics\" as a blend between graphical and text media.\n            In fact, I have it on the shelf behind me at work as I type this, beside my XHTML, XSLT, CSS, usability, and disability references.\n            --Kynn\n            --\n            Kynn Bartlett &lt;kynn@idyllmtn.com&gt; http://kynn.com/\n            Director of Accessibility, Edapta http://www.edapta.com/\n            Chief Technologist, Idyll Mountain Internet http://www.idyllmtn.com/\n            AWARE Center Director http://www.awarecenter.org/\n            Vote for Liz for N. Am. ICANN Nominee! http://www.khyri.com/icann/\n\t    ",
-    "user_1":"kynn-edapta@idyllmtn.com",
-    "user_2":"jc@signbrowser.org.uk",
-    "name":"Fw: Thank you!"
-  },
-  {
-    "content":"\n\t    This isn't necessarily the case, William.\n            There is a lot of reading that is non-textual.\n            I _highly_ recommend, to everyone on this list, the book \"Understanding Comics\" by Scott McCloud.\n            It deals with the (U.S.) comic book medium and has some interesting thoughts and concepts on the \"language of comics\" as a blend between graphical and text media.\n            In fact, I have it on the shelf behind me at work as I type this, beside my XHTML, XSLT, CSS, usability, and disability references.\n            --Kynn\n            --\n            Kynn Bartlett &lt;kynn@idyllmtn.com&gt; http://kynn.com/\n            Director of Accessibility, Edapta http://www.edapta.com/\n            Chief Technologist, Idyll Mountain Internet http://www.idyllmtn.com/\n            AWARE Center Director http://www.awarecenter.org/\n            Vote for Liz for N. Am. ICANN Nominee! http://www.khyri.com/icann/\n\t    ",
-    "user_1":"kynn-edapta@idyllmtn.com",
-    "user_2":"w3c-wai-ig@w3.org",
-    "name":"Fw: Thank you!"
-  },
-  {
     "content":"\n            anyone have a dictionary handy?\n\t    ",
     "user_1":"David.Poehlman@usmint.treas.gov",
     "user_2":"kynn-edapta@idyllmtn.com",
@@ -1341,18 +1113,6 @@
     "content":"\n            anyone have a dictionary handy?\n\t    ",
     "user_1":"David.Poehlman@usmint.treas.gov",
     "user_2":"love26@gorge.net",
-    "name":"Fw: Thank you!"
-  },
-  {
-    "content":"\n            anyone have a dictionary handy?\n\t    ",
-    "user_1":"David.Poehlman@usmint.treas.gov",
-    "user_2":"jc@signbrowser.org.uk",
-    "name":"Fw: Thank you!"
-  },
-  {
-    "content":"\n            anyone have a dictionary handy?\n\t    ",
-    "user_1":"David.Poehlman@usmint.treas.gov",
-    "user_2":"w3c-wai-ig@w3.org",
     "name":"Fw: Thank you!"
   },
   {
@@ -1418,12 +1178,6 @@
   {
     "content":"\n            Which of course is no reason to NOT make the sites accessible &lt;grin&gt;\n            JF\n\t    &lt;/grin&gt;\n\t    ",
     "user_1":"foliot@bytowninternet.com",
-    "user_2":"\"Nissen",
-    "name":"Federal Credit Union Question ADA related"
-  },
-  {
-    "content":"\n            Which of course is no reason to NOT make the sites accessible &lt;grin&gt;\n            JF\n\t    &lt;/grin&gt;\n\t    ",
-    "user_1":"foliot@bytowninternet.com",
     "user_2":"Dan.Nissen@UNISYS.com",
     "name":"Federal Credit Union Question ADA related"
   },
@@ -1440,7 +1194,7 @@
     "name":"Federal Credit Union Question ADA related"
   },
   {
-    "content":"\n\n\n\t    pwwebspeak used to use them.\n\t    ",
+    "content":"",
     "user_1":"poehlman1@comcast.net",
     "user_2":"w3c-wai-ig@w3.org",
     "name":"Federal Credit Union Question ADA related"
@@ -1536,12 +1290,6 @@
     "name":"aural style sheets"
   },
   {
-    "content":"\n\t    Will this run on Windows (using Cygwin?)?\n            Danny.\n\t    ",
-    "user_1":"danny666@virgilio.it",
-    "user_2":"w3c-wai-ig@w3.org",
-    "name":"aural style sheets"
-  },
-  {
     "content":"\n\t    pwwebspeak used to use them.\n\t    ",
     "user_1":"poehlman1@comcast.net",
     "user_2":"danny666@virgilio.it",
@@ -1566,39 +1314,21 @@
     "name":"aural style sheets"
   },
   {
-    "content":"\n            Dear ALL,\n            I have now completed an update to the paper &quot;A Dyslexic Perspective on e-Content Accessibility&quot;.\n            The paper is available in a HTML format, Word Document, RTF and PDF (tagged).\n            I hope to have a summary sheet available shortly.\n            Thanks to all who took time to feed back.\n            Pete Rainger\n            Research Officer\n            TechDis\n\t    \n\n\n            URL:\n            http://www.techdis.ac.uk/seven/papers/\n\t    \n\n\n            hi,\n            The paper cover Dyslexia and Dyslexic-like specific learning difficulties.\n            But it does it does not specifically cover the &quot;learning disabled&quot;, &quot;Severe Learning Difficulties&quot; or Cognitive disabilities.\n            My remit is for those who could be potentially studying at a minimum of a Further Educational level.\n            You might find that the paper covers many of the issues but it completely side-steps the issues when a student has a savere language difficulty or savere cognition problem...\n            I would need to go into talking about the appropriateness of content, symbolic communications. etc etc.\n            I do hope within the future to write a similar paper about web accessibility for those with hearing impairment (including pre-lingually deaf).\n            pete\n\t    ",
+    "content":"\n            Dear ALL,\n            I have now completed an update to the paper &quot;A Dyslexic Perspective on e-Content Accessibility&quot;.\n            The paper is available in a HTML format, Word Document, RTF and PDF (tagged).\n            I hope to have a summary sheet available shortly.\n            Thanks to all who took time to feed back.\n            Pete Rainger\n            Research Officer\n            TechDis\n\t    ",
     "user_1":"P.F.Rainger@sussex.ac.uk",
     "user_2":"w3c-wai-ig@w3.org",
     "name":"Dyslexia Paper - Completed"
   },
   {
-    "content":"\n            URL???????\n            thanks\n            Bob\n            &quot;They that can give up essential liberty to obtain a little temporary safety deserve Neither liberty nor safety&quot;, Benjamin Franklin\n            - - - - - - - - - - - - - - - - - - -\n            ASCII Ribbon Campaign accessBob\n            NO HTML/PDF/RTF in e-mail accessys@smartnospam.net\n            NO MSWord docs in e-mail Access Systems, engineers\n            NO attachments in e-mail, *LINUX powered* access is a civil right\n            *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#\n            THIS message and any attachments are CONFIDENTIAL and may be privileged.\n            They are intended ONLY for the individual or entity named\n\t    \n\n\n            URL:\n            http://www.techdis.ac.uk/seven/papers/\n\t    \n\n\n            hi,\n            The paper cover Dyslexia and Dyslexic-like specific learning difficulties.\n            But it does it does not specifically cover the &quot;learning disabled&quot;, &quot;Severe Learning Difficulties&quot; or Cognitive disabilities.\n            My remit is for those who could be potentially studying at a minimum of a Further Educational level.\n            You might find that the paper covers many of the issues but it completely side-steps the issues when a student has a savere language difficulty or savere cognition problem...\n            I would need to go into talking about the appropriateness of content, symbolic communications. etc etc.\n            I do hope within the future to write a similar paper about web accessibility for those with hearing impairment (including pre-lingually deaf).\n            pete\n\t    ",
+    "content":"\n            URL???????\n            thanks\n            Bob\n            &quot;They that can give up essential liberty to obtain a little temporary safety deserve Neither liberty nor safety&quot;, Benjamin Franklin\n            - - - - - - - - - - - - - - - - - - -\n            ASCII Ribbon Campaign accessBob\n            NO HTML/PDF/RTF in e-mail accessys@smartnospam.net\n            NO MSWord docs in e-mail Access Systems, engineers\n            NO attachments in e-mail, *LINUX powered* access is a civil right\n            *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#\n            THIS message and any attachments are CONFIDENTIAL and may be privileged.\n            They are intended ONLY for the individual or entity named\n\t    \n\n\n            URL:\n            http://www.techdis.ac.uk/seven/papers/\n\t    ",
     "user_1":"accessys@smart.net",
     "user_2":"P.F.Rainger@sussex.ac.uk",
     "name":"Dyslexia Paper - Completed"
   },
   {
-    "content":"\n            URL:\n            http://www.techdis.ac.uk/seven/papers/\n\t    \n\n\n            hi,\n            The paper cover Dyslexia and Dyslexic-like specific learning difficulties.\n            But it does it does not specifically cover the &quot;learning disabled&quot;, &quot;Severe Learning Difficulties&quot; or Cognitive disabilities.\n            My remit is for those who could be potentially studying at a minimum of a Further Educational level.\n            You might find that the paper covers many of the issues but it completely side-steps the issues when a student has a savere language difficulty or savere cognition problem...\n            I would need to go into talking about the appropriateness of content, symbolic communications. etc etc.\n            I do hope within the future to write a similar paper about web accessibility for those with hearing impairment (including pre-lingually deaf).\n            pete\n\t    ",
-    "user_1":"P.F.Rainger@sussex.ac.uk",
+    "content":"\n            Peter,\n            to clear up a possible confusion, can you confirm that you're use of SLD refers to specific learning difficulty or dyslexia, and not Severe Learning Difficulties or cognitive disability?\n            looks to be a great resource, we now link to it and http://www.techdis.ac.uk/seven/disability_and_the_web.html from http://www.learningdifferently.com/develop/papers.html where there are links to many other useful resources on LDD and the web\n            thanks\n            Jonathan\n\t    \n\n\n            hi,\n            The paper cover Dyslexia and Dyslexic-like specific learning difficulties.\n            But it does it does not specifically cover the &quot;learning disabled&quot;, &quot;Severe Learning Difficulties&quot; or Cognitive disabilities.\n            My remit is for those who could be potentially studying at a minimum of a Further Educational level.\n            You might find that the paper covers many of the issues but it completely side-steps the issues when a student has a savere language difficulty or savere cognition problem...\n            I would need to go into talking about the appropriateness of content, symbolic communications. etc etc.\n            I do hope within the future to write a similar paper about web accessibility for those with hearing impairment (including pre-lingually deaf).\n            pete\n\t    ",
+    "user_1":"j.chetwynd@btinternet.com",
     "user_2":"P.F.Rainger@sussex.ac.uk",
-    "name":"Dyslexia Paper - Completed"
-  },
-  {
-    "content":"\n            Peter,\n            to clear up a possible confusion, can you confirm that you're use of SLD refers to specific learning difficulty or dyslexia, and not Severe Learning Difficulties or cognitive disability?\n            looks to be a great resource, we now link to it and http://www.techdis.ac.uk/seven/disability_and_the_web.html from http://www.learningdifferently.com/develop/papers.html where there are links to many other useful resources on LDD and the web\n            thanks\n            Jonathan\n\t    ",
-    "user_1":"j.chetwynd@btinternet.com",
-    "user_2":"P.F.Rainger@sussex.ac.uk(Peter Rainger)",
-    "name":"Dyslexia Paper - Completed"
-  },
-  {
-    "content":"\n            Peter,\n            to clear up a possible confusion, can you confirm that you're use of SLD refers to specific learning difficulty or dyslexia, and not Severe Learning Difficulties or cognitive disability?\n            looks to be a great resource, we now link to it and http://www.techdis.ac.uk/seven/disability_and_the_web.html from http://www.learningdifferently.com/develop/papers.html where there are links to many other useful resources on LDD and the web\n            thanks\n            Jonathan\n\t    ",
-    "user_1":"j.chetwynd@btinternet.com",
-    "user_2":"accessys@smart.net",
-    "name":"Dyslexia Paper - Completed"
-  },
-  {
-    "content":"\n            hi,\n            The paper cover Dyslexia and Dyslexic-like specific learning difficulties.\n            But it does it does not specifically cover the &quot;learning disabled&quot;, &quot;Severe Learning Difficulties&quot; or Cognitive disabilities.\n            My remit is for those who could be potentially studying at a minimum of a Further Educational level.\n            You might find that the paper covers many of the issues but it completely side-steps the issues when a student has a savere language difficulty or savere cognition problem...\n            I would need to go into talking about the appropriateness of content, symbolic communications. etc etc.\n            I do hope within the future to write a similar paper about web accessibility for those with hearing impairment (including pre-lingually deaf).\n            pete\n\t    ",
-    "user_1":"P.F.Rainger@sussex.ac.uk",
-    "user_2":"j.chetwynd@btinternet.com",
     "name":"Dyslexia Paper - Completed"
   },
   {
@@ -1638,7 +1368,7 @@
     "name":"White text on black background"
   },
   {
-    "content":"\n\t    BlankIt a appears another interesting case goes to court today where a wheel chair user is seeking compensation from London Stanstead Airport and Ryan Air for charging ?18.00 for the use of a wheelchair and lift to get onto the plane.\n            I realise it is the Airlines that take the flak for this, but I believe it is the Airport authority that makes the charge??\n            I think he has an open and shut case, but the outcome will be interesting, and I believe the airline and airport are only contesting the case as this sets a precedent to supply a reasonable service for all disabled travellers, world wide.\n            Shame on them\n\t    \n\n\n\t    Monarch also charge I believe.\n\t    \n\n\n            none really, but Freud would forgive the association of thought from Cynthia's posting.\n            can you?\n            err..please?\n            earnest smiles\n            Paul\n\t    ",
+    "content":"\n\t    BlankIt a appears another interesting case goes to court today where a wheel chair user is seeking compensation from London Stanstead Airport and Ryan Air for charging ?18.00 for the use of a wheelchair and lift to get onto the plane.\n            I realise it is the Airlines that take the flak for this, but I believe it is the Airport authority that makes the charge??\n            I think he has an open and shut case, but the outcome will be interesting, and I believe the airline and airport are only contesting the case as this sets a precedent to supply a reasonable service for all disabled travellers, world wide.\n            Shame on them\n\t    ",
     "user_1":"paul@ten-20.com",
     "user_2":"w3c-wai-ig@w3.org",
     "name":"legal case Ryan air"
@@ -1650,21 +1380,9 @@
     "name":"legal case Ryan air"
   },
   {
-    "content":"\n            When I worked for a tourism dot-com some years ago we weren't shy about suggesting that customers sue over this (it wasn't our company policy to do so, but individually we were outraged and didn't hide it).\n            IIRC the airlines are customers of the airport, not the passengers.\n            They charge the airlines for the use of the wheelchair lifts, I don't think any other airline passes the charge on the customer, whereas Ryan Air pass *everything* onto the customer.\n            --\n            Jon Hanna | Toys and books\n            &lt;http://www.hackcraft.net/&gt; | for sick children:\n            | &lt;http://santa.boards.ie/&gt;\n\t    \n\n\n            You're right, off-topic-itis has got me again.\n            Sorry.\n\t    ",
-    "user_1":"jon@hackcraft.net",
-    "user_2":"w3c-wai-ig@w3.org",
-    "name":"legal case Ryan air"
-  },
-  {
     "content":"\n\t    Interesting case.\n            What is the relevance to Web Accessibility?\n            Cheers\n            Chaals\n            --\n            Charles McCathieNevile Fundaci?n Sidar\n            charles@sidar.org http://www.sidar.org\n\t    \n\n\n            none really, but Freud would forgive the association of thought from Cynthia's posting.\n            can you?\n            err..please?\n            earnest smiles\n            Paul\n\t    \n\n\n\t    Naturally you are forgiven :-)\n            Actually I think there are some potentially interesting legal ramifications\n            - if passing the cost of accessibility to the customer is found to be legal then it suggests a particular way to pay for what appeared to be already legally necessary accessibility improvements, at least in Australia and the UK.\n            But without providing some relevance to the topic of this list, which is web accessibility, I would prefer not to have more mail than I already get.\n            Fora for general discussion of accessibility law are available...\n            cheers\n            Chaals\n            --\n            Charles McCathieNevile Fundaci?n Sidar\n            charles@sidar.org http://www.sidar.org\n\t    ",
     "user_1":"charles@sidar.org",
     "user_2":"paul@ten-20.com",
-    "name":"legal case Ryan air"
-  },
-  {
-    "content":"\n\t    Interesting case.\n            What is the relevance to Web Accessibility?\n            Cheers\n            Chaals\n            --\n            Charles McCathieNevile Fundaci?n Sidar\n            charles@sidar.org http://www.sidar.org\n\t    \n\n\n\t    Naturally you are forgiven :-)\n            Actually I think there are some potentially interesting legal ramifications\n            - if passing the cost of accessibility to the customer is found to be legal then it suggests a particular way to pay for what appeared to be already legally necessary accessibility improvements, at least in Australia and the UK.\n            But without providing some relevance to the topic of this list, which is web accessibility, I would prefer not to have more mail than I already get.\n            Fora for general discussion of accessibility law are available...\n            cheers\n            Chaals\n            --\n            Charles McCathieNevile Fundaci?n Sidar\n            charles@sidar.org http://www.sidar.org\n\t    ",
-    "user_1":"charles@sidar.org",
-    "user_2":"w3c-wai-ig@w3.org",
     "name":"legal case Ryan air"
   },
   {
@@ -1680,8 +1398,8 @@
     "name":"legal case Ryan air"
   },
   {
-    "content":"\n\t    Please, this has nothing to do with web accessibility.\n            Take it up off-list.\n            J.\n            The information in this email is confidential.\n            The contents may not be disclosed or used by anyone other than the addressee.\n            If you are not the addressee, please tell us by using the reply facility in your email software as soon as possible.\n            Sheffield City Council cannot accept any responsibility for the accuracy or completeness of this message as it has been transmitted over a public network.\n            If you suspect that the message may have been intercepted or amended please tell us as soon as possible.\n\t    ",
-    "user_1":"Julian.Scarlett@sheffield.gov.uk",
+    "content":"\n            You're right, off-topic-itis has got me again.\n            Sorry.\n\t    ",
+    "user_1":"jon@hackcraft.net",
     "user_2":"w3c-wai-ig@w3.org",
     "name":"legal case Ryan air"
   },
@@ -1689,18 +1407,6 @@
     "content":"\n            in the USA it is expressly forbidden to pass the cost to the consumer.\n            Bob\n            \"They that can give up essential liberty to obtain a little temporary\n            safety deserve Neither liberty nor safety\", Benjamin Franklin\n            - - - - - - - - - - - - - - - - - - -\n            ASCII Ribbon Campaign accessBob\n            NO HTML/PDF/RTF in e-mail accessys@smartnospam.net\n            NO MSWord docs in e-mail Access Systems, engineers\n            NO attachments in e-mail, *LINUX powered* access is a civil right\n            *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#\n            THIS message and any attachments are CONFIDENTIAL and may be\n            privileged. They are intended ONLY for the individual or entity named\n\t    ",
     "user_1":"accessys@smart.net",
     "user_2":"charles@sidar.org",
-    "name":"legal case Ryan air"
-  },
-  {
-    "content":"\n            in the USA it is expressly forbidden to pass the cost to the consumer.\n            Bob\n            \"They that can give up essential liberty to obtain a little temporary\n            safety deserve Neither liberty nor safety\", Benjamin Franklin\n            - - - - - - - - - - - - - - - - - - -\n            ASCII Ribbon Campaign accessBob\n            NO HTML/PDF/RTF in e-mail accessys@smartnospam.net\n            NO MSWord docs in e-mail Access Systems, engineers\n            NO attachments in e-mail, *LINUX powered* access is a civil right\n            *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#\n            THIS message and any attachments are CONFIDENTIAL and may be\n            privileged. They are intended ONLY for the individual or entity named\n\t    ",
-    "user_1":"accessys@smart.net",
-    "user_2":"paul@ten-20.com",
-    "name":"legal case Ryan air"
-  },
-  {
-    "content":"\n            in the USA it is expressly forbidden to pass the cost to the consumer.\n            Bob\n            \"They that can give up essential liberty to obtain a little temporary\n            safety deserve Neither liberty nor safety\", Benjamin Franklin\n            - - - - - - - - - - - - - - - - - - -\n            ASCII Ribbon Campaign accessBob\n            NO HTML/PDF/RTF in e-mail accessys@smartnospam.net\n            NO MSWord docs in e-mail Access Systems, engineers\n            NO attachments in e-mail, *LINUX powered* access is a civil right\n            *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#\n            THIS message and any attachments are CONFIDENTIAL and may be\n            privileged. They are intended ONLY for the individual or entity named\n\t    ",
-    "user_1":"accessys@smart.net",
-    "user_2":"w3c-wai-ig@w3.org",
     "name":"legal case Ryan air"
   },
   {
@@ -1737,12 +1443,12 @@
     "content":"\n\t    Well, that explains a lot!\n            I've been trying for awhile too, and I can't seem to get off.\n            Please!\n            Take me off this list!\n            And *fix* your subscribe/unsubscribe automated email list!!\n            --Kim Haeger\n            Technical Writer\n            Netscape\n\t    ",
     "user_1":"kimh@netscape.com",
     "user_2":"www-font@w3.org",
+    "user_2":"www-font@w3.org",
     "name":"Try Unsubscribing&ndash;&ndash;You Can't"
   },
   {
     "content":"\n\t    Please remain calm.\n            Our automated list manager works very well.\n            Sometimes there are problems due to:\n            - you being subscribed under another name/address --\n            this was the case for the first among the two recent messages.\n            - you being subscribed to a mail exploder in the company you work for --\n            this, I believe, was the case for the second person.\n            Please talk to your sysadm about this problem --\n            there is nothing we can do\n            Regards,\n            -h&amp;amp;kon\n            H ? k o n W i u m L i e\n            howcome@w3.org W o r l d Wide W e b Consortium\n            inria ???#?? FRANCE http://www.w3.org/people/howcome\n\t    ",
     "user_1":"howcome@w3.org",
-    "user_2":"www-font@w3.org",
     "name":"Try Unsubscribing&ndash;&ndash;You Can't"
   },
   {

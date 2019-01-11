@@ -1,6 +1,4 @@
-src="d3-cloud-master/index.js";
-
-//todo 155 nodes 
+//todo 155 nodes
 function Document(content, user_1, user_2, tfidf) {
     this.content = content;
     this.user_1 = user_1;
@@ -296,7 +294,7 @@ function createWordCloud(user_1, user_2) {
 
             var color = d3.scaleLinear()
                 .domain([0, 1, 2, 3, 4, 5, 6, 10, 15, 20, 100])
-                .range(["#ddd", "#ccc", "#bbb", "#aaa", "#999", "#888", "#777", "#666", "#555", "#444", "#333", "#222"]);
+                .range(["#ff0000", "#3543e8", "#ffbb00", "#5ae216", "#e216d7", "#fdff00", "#00fff9", "#259621", "#7806ab", "#07a8e5", "#ff9a00"]);
 
             d3.layout.cloud().size([w, h])
                 .words(word_list)
@@ -337,75 +335,4 @@ function createWordCloud(user_1, user_2) {
     }
 }
 
-function DrawWordCloud(user_1, user_2){
-    let w = 600, h = 400;
-    let percentage = 20;
-    let defaultSize = 40;
-    let word_list = [];
-
-    for (let i = 0; i < wordCloudData.length; i++) {
-        if ((user_1 === wordCloudData[i].user_1 && user_2 === wordCloudData[i].user_2) ||
-            (user_2 === wordCloudData[i].user_2 && user_2 === wordCloudData[i].user_1)) {
-            let list = wordCloudData[i].tfidf;
-
-            $.ajaxSetup({
-                async: false
-            });
-
-
-            $.getScript("d3-cloud-master/build/d3.layout.cloud.js", function(){
-                for (let j = 0; j < Math.round(((list.length / 100) * percentage)); j++) {
-                    let newWord = {"text": list[j].term, "size": (defaultSize * list[j].frequency)};
-                    word_list.push(newWord);
-                }
-                console.log("Word_list: ");
-                console.log(word_list);
-
-                var fill = d3.scale.category20();
-
-                var color = d3.scale.linear()
-                    .domain([0, 1, 2, 3, 4, 5, 6, 10, 15, 20, 100])
-                    .range(["#ff0000", "#3543e8", "#ffbb00", "#5ae216", "#e216d7"]);
-
-                d3.layout.cloud().size([w, h])
-                    .words(word_list)
-                    .rotate(0)
-                    .fontSize(function (d) {
-                        return d.size;
-                    })
-                    .on("end", draw)
-                    .start();
-
-                function draw() {
-                    d3.select("body").append("svg")
-                        .attr("width", w)
-                        .attr("height", h)
-                        .attr("class", "wordcloud")
-                        .append("g")
-                        // without the transform, words words would get cutoff to the left and top, they would
-                        // appear outside of the SVG area
-                        .attr("transform", "translate(320,200)")
-                        .selectAll("text")
-                        .data(word_list)
-                        .enter.append("text")
-                        .style("font-size", function (d) {
-                            return d.size + "px";
-                        })
-                        .style("fill", function(d, i) { return fill(i); })
-                        .attr("transform", function (d) {
-                            return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
-                        })
-                        .text(function (d) {
-                            return d.text;
-                        });
-                }
-            });
-
-            $.ajaxSetup({
-                async: true
-            });
-
-        }
-    }
-}
 parseData();
